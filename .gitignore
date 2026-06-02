@@ -2,6 +2,7 @@
 tmp.md
 games/*
 bt3/*
+.vscode/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
