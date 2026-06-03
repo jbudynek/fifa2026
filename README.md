@@ -1,12 +1,12 @@
 # FIFA World Cup 2026
 
 Simple pronostics for FIFA 2026 football World Cup based on Bradley-Terry and some past data. 
-See also https://github.com/jbudynek/rugby2023 and https://github.com/jbudynek/eufa2024
+See also https://github.com/jbudynek/rugby2023 and https://github.com/jbudynek/uefa2024
 
 ## HOWTO Initialize
 
 The source data comes from this great repo that has results for all soccer games ever!
-`https://raw.githubusercontent.com/martj42/international_results/master/results.csv`
+https://github.com/martj42/international_results/
 
 We need to create two files in `input_data` (See `00_process_data.py` for helper code):
 - create file `wc_games_results_before_fifa26.csv` with past games and results (18 months? 2 years?) - Columns: `d,t1,t2,s1,s2,win1,win2`
