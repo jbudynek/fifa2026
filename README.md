@@ -37,4 +37,6 @@ Then:
 
 ## Round 1 pronostics
 
+![Pool2](boxplots/_02_whisk-2024-06-03-2026-07-19.png)
+
 ![Pool1](boxplots/_01_whisk-2024-06-03-2026-05-31.png)
