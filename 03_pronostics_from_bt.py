@@ -39,7 +39,7 @@ for k, v in whisk.items():
 
 
 plt.ylim(0, 1)
-plt.boxplot(whisk.values(), labels=whisk.keys())
+plt.boxplot(whisk.values(), tick_labels=whisk.keys())
 plt.xticks(rotation=45)
 plt.title( 
     f"Boxplots for {TITLE}\nusing data from {BOUNDS[0]} to {BOUNDS[-1]}"

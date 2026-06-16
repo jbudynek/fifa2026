@@ -2,7 +2,8 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 
-files = ['input_data/wc_games_results_before_fifa26.csv','input_data/wc_games_results_during_fifa26.csv']
+files = ['input_data/wc_games_results_before_fifa26.csv',
+         'input_data/wc_games_results_during_fifa26.csv']
 
 df = pd.DataFrame(columns=["date", "team_1", "team_2", "win_1", "win_2"])
 
@@ -28,17 +29,17 @@ for file in files:
         win_2 = row.win2
         if (
             pd.isna(date)
-            or (date >= pd.Timestamp(datetime.today().date())) #TODO parametrer la date de fin de collecte des données
+#            or (date >= pd.Timestamp(datetime.today().date())) #TODO parametrer la date de fin de collecte des données
             or (team_1 is None)
             or (team_2 is None)
-            or (win_1 == False and win_2 == False)
+            or (win_1 != True and win_2 != True)
         ):
-            print(f"{row.d} {team_1} {team_2} {win_1} {win_2}")
-            # print(match)
+            print(f"{row.d} {team_1} {team_2} {win_1} {win_2} NOT VALID")
             valid = False
             invalid += 1
         if valid:
-            df.loc[idx] = [date, team_1, team_2, win_1, win_2]
+            print(f"{row.d} {team_1} {team_2} {win_1} {win_2} VALID OK")
+            df.loc[idx] = [date, team_1, team_2, bool(win_1), bool(win_2)]
             idx += 1
 
     print(f"file {file} done")
