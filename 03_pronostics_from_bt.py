@@ -4,6 +4,8 @@ import numpy as np
 
 from pronostics import pronostics
 from conf import ALL_GAMES, BOUNDS, TITLE, ALL_TEAMS, ALL_TEAMS_SHORT
+from datetime import date
+from pathlib import Path
 
 t2t = {}
 for i,t in enumerate(ALL_TEAMS):
@@ -25,9 +27,9 @@ for idx, val in enumerate(BOUNDS):
     print(f"** Using data from {start_date} to {end_date} **")
     for match in ALL_GAMES:
         prob1, prob2 = pronostics(match, df2)
-        #whisk[tuple(match)].append(prob1)
         whisk[tuple([t2t[match[0]],t2t[match[1]]])].append(prob1)
 
+pronos = []
 print(f"** Game - list of prob - average prob - med prob - winner **")
 for k, v in whisk.items():
     formatted_data = ', '.join([f'{value:.2f}' for value in v])
@@ -36,7 +38,12 @@ for k, v in whisk.items():
     ppp = (av+me)/2
 
     print(f"{k} [{formatted_data}] {av:.2f} {me:.2f} {k[int(ppp<=0.5)]}")
+    pronos.append(f"{k} {ppp:.2f} {k[int(ppp<=0.5)]}")
 
+out_dir = Path("pronos")
+
+out_file = out_dir / f"{date.today():%Y-%m-%d}-pronos.txt"
+out_file.write_text("\n".join(pronos) + "\n", encoding="utf-8")
 
 plt.ylim(0, 1)
 plt.boxplot(whisk.values(), tick_labels=whisk.keys())

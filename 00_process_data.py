@@ -1,7 +1,13 @@
 import pandas as pd
 
-start_date = '2024-06-03' # date of the first match to consider for past data
-competition_date = '2026-06-11' # date of the first match of the world cup 2026
+from conf import BOUNDS,KICK_OFF
+
+start_date = BOUNDS[0]
+competition_date = KICK_OFF
+
+#start_date = '2024-06-03' # date of the first match to consider for past data
+#start_date = '1930-01-01' # date of the first match to consider for past data
+#competition_date = '2026-06-11' # date of the first match of the world cup 2026
 
 # process team list and competition matches from results.csv
 wc_df = pd.read_csv('input_data/results.csv')

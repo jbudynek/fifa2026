@@ -152,20 +152,35 @@ ALL_GAMES = [
     # # QUARTERS
     # # SEMIS
     # # FINAL
-
 ]
 
 #######
 
+KICK_OFF = "2026-06-11"  # WC kick-off date (first match of the world cup 2026)
+#KICK_OFF = "2022-12-19"  # WC kick-off date (first match of the world cup 2026)
+
 BOUNDS = [
-    "2024-06-03",  # P1 — Amicaux pré-tournois (fenêtre FIFA juin 2024, avant Euro et Copa América)
-    "2024-06-16",  # P2 — Euro 2024 + Copa América 2024 (phases finales, compétitions officielles)
-    "2024-09-05",  # P3 — Qualifications WC26, automne 2024 (fenêtres FIFA sept./oct./nov. 2024)
-    "2024-12-28",  # P4 — Qualifications WC26, printemps 2025 + Gold Cup CONCACAF (mars–juil. 2025)
-    "2025-07-02",  # P5 — Qualifications WC26, automne 2025, matchs décisifs (fenêtres sept./oct./nov. 2025)
-    "2025-12-08",  # P6 — Coupes régionales hivernales (Gulf Cup + AFCON 2025, déc. 2025–jan. 2026)
-    "2026-06-10",  # P7 — Playoffs finaux + amicaux de préparation au Mondial (mars–mai 2026)
-    "2026-07-19",  # P8 - World cup 2026 (du 11 juin au 19 juillet 2026)
+    #"1930-07-13",  # "L'Histoire Culturelle" - Au-delà de 30 ans : Mythes, poids du maillot et pression psychologique.
+    #"1996-06-01",  # "L'Ère Moderne du Football Globalisé" - 1996-2014 : Homogénéisation tactique, mondialisation et explosion de la data.
+    "2014-06-12",  # "L'Ère d'une Génération" - 2014-2022 : Cycles des cadres actuels et gestion du plafond de verre.
+    "2022-12-19",  # "Cycle Immédiat - Phase Fondatrice" - Post-Qatar 2022 : Installation de la nouvelle philosophie et des principes de jeu.
+    "2024-06-11",  # "Cycle Immédiat - Qualification & Maturation" - 2024-2025 : Tournois continentaux (Euro/Copa) et cristallisation du onze type.
+    "2025-12-11",  # "Cycle Immédiat - Phase Flash" - 6 derniers mois : Forme récente en club, fraîcheur physique et dynamique à l'instant T.
+    "2026-06-10",  # Début World Cup 2026
+    "2026-07-20",  # Fin World cup 2026 (du 11 juin au 19 juillet 2026)
+    # last date should be after the last match of the world cup, so that all matches are included in the last interval
+]
+
+BOUNDS___ = [
+    # "2024-06-03",  # Amicaux pré-tournois (fenêtre FIFA juin 2024, avant Euro et Copa América)
+    # "2024-06-16",  # Euro 2024 + Copa América 2024 (phases finales, compétitions officielles)
+    "2024-09-05",  # Qualifications WC26, automne 2024 (fenêtres FIFA sept./oct./nov. 2024)
+    "2024-12-28",  # Qualifications WC26, printemps 2025 + Gold Cup CONCACAF (mars–juil. 2025)
+    "2025-07-02",  # Qualifications WC26, automne 2025, matchs décisifs (fenêtres sept./oct./nov. 2025)
+    "2025-12-08",  # Coupes régionales hivernales (Gulf Cup + AFCON 2025, déc. 2025–jan. 2026)
+    "2026-06-10",  # Playoffs finaux + amicaux de préparation au Mondial (mars–mai 2026)
+    "2026-07-20",  # World cup 2026 (du 11 juin au 19 juillet 2026)
+    # last date should be after the last match of the world cup, so that all matches are included in the last interval
 ]
 
 #########
@@ -272,5 +287,3 @@ ALL_TEAMS_SHORT = [
     "URU",
     "UZB",
 ]
-
-
