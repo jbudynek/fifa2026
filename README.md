@@ -11,7 +11,7 @@ https://github.com/martj42/international_results/
 We need to create two files in `input_data` (See `00_process_data.py` for helper code):
 - create file `wc_games_results_before_fifa26.csv` with past games and results (18 months? 2 years?) - Columns: `d,t1,t2,s1,s2,win1,win2`
     - example: 2023-03-23,Kazakhstan,Slovenia,1,2,False,True
-    - draw is FALSE,FALSE
+    - draw is False,False
 - create file `wc_games_results_during_fifa26.csv` with games and results since competition started (empty score if not played yet)
 
 Then:
@@ -23,13 +23,15 @@ Then:
 
 ## HOWTO run each round
 
-- in `input_data\wc_games_results_during_fifa26.csv`
+- Update source data with `wget https://github.com/martj42/international_results/raw/refs/heads/master/results.csv -O input_data/results.csv`
+- or, in `input_data\wc_games_results_during_fifa26.csv`
     - update file with games and results since competition started
 - in `conf.py`
     - update `ALL_GAMES` with the games you want a pronostic for, and `TITLE` with the title you want for the graph that will be generated
     - update `BOUNDS`
 
 Then:
+- Run `00_process_data.py` (if you updated the source data)
 - Run `01_make_games_list.py`
 - Run `02_bradley_terry.py`
 - Run `03_pronostics_from_bt.py`
@@ -37,6 +39,6 @@ Then:
 
 ## Round 1 pronostics
 
-![Pool2](boxplots/_02_whisk-2024-06-03-2026-07-19.png)
+![Pool2](boxplots/_02_whisk-2014-06-12-2026-07-20.png)
 
 ![Pool1](boxplots/_01_whisk-2024-06-03-2026-05-31.png)
