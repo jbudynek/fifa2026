@@ -1,4 +1,1151 @@
 d,t1,t2,s1,s2,win1,win2
+2014-06-12,Brazil,Croatia,3,1,True,False
+2014-06-13,Spain,Netherlands,1,5,False,True
+2014-06-14,Ivory Coast,Japan,2,1,True,False
+2014-06-15,Argentina,Bosnia and Herzegovina,2,1,True,False
+2014-06-15,Switzerland,Ecuador,2,1,True,False
+2014-06-16,Germany,Portugal,4,0,True,False
+2014-06-16,Ghana,United States,1,2,False,True
+2014-06-17,Belgium,Algeria,2,1,True,False
+2014-06-17,Brazil,Mexico,0,0,False,False
+2014-06-18,Australia,Netherlands,2,3,False,True
+2014-06-19,Colombia,Ivory Coast,2,1,True,False
+2014-06-19,Uruguay,England,2,1,True,False
+2014-06-20,Switzerland,France,2,5,False,True
+2014-06-21,Argentina,Iran,1,0,True,False
+2014-06-21,Germany,Ghana,2,2,False,False
+2014-06-22,South Korea,Algeria,2,4,False,True
+2014-06-22,United States,Portugal,2,2,False,False
+2014-06-23,Australia,Spain,0,3,False,True
+2014-06-23,Croatia,Mexico,1,3,False,True
+2014-06-24,Japan,Colombia,1,4,False,True
+2014-06-25,Bosnia and Herzegovina,Iran,3,1,True,False
+2014-06-25,Ecuador,France,0,0,False,False
+2014-06-26,South Korea,Belgium,0,1,False,True
+2014-06-26,Portugal,Ghana,2,1,True,False
+2014-06-26,United States,Germany,0,1,False,True
+2014-06-28,Colombia,Uruguay,2,0,True,False
+2014-06-29,Netherlands,Mexico,2,1,True,False
+2014-06-30,Germany,Algeria,2,1,True,False
+2014-07-01,Argentina,Switzerland,1,0,True,False
+2014-07-01,Belgium,United States,2,1,True,False
+2014-07-04,Brazil,Colombia,2,1,True,False
+2014-07-04,France,Germany,0,1,False,True
+2014-07-05,Argentina,Belgium,1,0,True,False
+2014-07-08,Brazil,Germany,1,7,False,True
+2014-07-09,Netherlands,Argentina,0,0,False,False
+2014-07-12,Brazil,Netherlands,0,3,False,True
+2014-07-13,Germany,Argentina,1,0,True,False
+2014-09-03,Czech Republic,United States,0,1,False,True
+2014-09-03,England,Norway,1,0,True,False
+2014-09-03,Germany,Argentina,2,4,False,True
+2014-09-03,Morocco,Qatar,0,0,False,False
+2014-09-04,Belgium,Australia,2,0,True,False
+2014-09-04,France,Spain,1,0,True,False
+2014-09-04,Uzbekistan,Jordan,2,0,True,False
+2014-09-05,Japan,Uruguay,0,2,False,True
+2014-09-05,Brazil,Colombia,1,0,True,False
+2014-09-05,Senegal,Egypt,2,0,True,False
+2014-09-07,Germany,Scotland,2,1,True,False
+2014-09-08,Australia,Saudi Arabia,3,2,True,False
+2014-09-08,Austria,Sweden,1,1,False,False
+2014-09-08,South Korea,Uruguay,0,1,False,True
+2014-09-08,Switzerland,England,0,2,False,True
+2014-09-08,Uzbekistan,New Zealand,3,1,True,False
+2014-09-09,Czech Republic,Netherlands,2,1,True,False
+2014-09-10,Egypt,Tunisia,0,1,False,True
+2014-10-06,Qatar,Uzbekistan,3,0,True,False
+2014-10-10,South Korea,Paraguay,2,0,True,False
+2014-10-10,Saudi Arabia,Uruguay,1,1,False,False
+2014-10-10,Senegal,Tunisia,0,0,False,False
+2014-10-10,Turkey,Czech Republic,1,2,False,True
+2014-10-11,Argentina,Brazil,0,2,False,True
+2014-10-11,DR Congo,Ivory Coast,1,2,False,True
+2014-10-11,France,Portugal,2,1,True,False
+2014-10-12,Mexico,Panama,1,0,True,False
+2014-10-13,Bosnia and Herzegovina,Belgium,1,1,False,False
+2014-10-14,Japan,Brazil,0,4,False,True
+2014-10-14,Qatar,Australia,1,0,True,False
+2014-10-15,Ivory Coast,DR Congo,3,4,False,True
+2014-10-15,Tunisia,Senegal,1,0,True,False
+2014-11-12,Argentina,Croatia,2,1,True,False
+2014-11-12,Netherlands,Mexico,2,3,False,True
+2014-11-12,Turkey,Brazil,0,4,False,True
+2014-11-13,Saudi Arabia,Qatar,1,1,False,False
+2014-11-14,Jordan,South Korea,0,1,False,True
+2014-11-14,United States,Colombia,1,2,False,True
+2014-11-15,Egypt,Senegal,0,1,False,True
+2014-11-18,Austria,Brazil,1,2,False,True
+2014-11-18,France,Sweden,1,0,True,False
+2014-11-18,Iran,South Korea,1,0,True,False
+2014-11-18,Japan,Australia,2,1,True,False
+2014-11-18,Panama,Canada,0,0,False,False
+2014-11-18,Portugal,Argentina,1,0,True,False
+2014-11-18,Scotland,England,1,3,False,True
+2014-11-18,Spain,Germany,0,1,False,True
+2014-11-19,Tunisia,Egypt,2,1,True,False
+2014-11-26,Saudi Arabia,Qatar,1,2,False,True
+2014-11-30,South Africa,Ivory Coast,2,0,True,False
+2014-12-21,Uzbekistan,Jordan,2,1,True,False
+2014-12-25,Uzbekistan,Iraq,1,0,True,False
+2014-12-28,Uzbekistan,Iraq,0,0,False,False
+2015-01-04,Iran,Iraq,1,0,True,False
+2015-01-04,South Korea,Saudi Arabia,2,0,True,False
+2015-01-11,Tunisia,Algeria,1,1,False,False
+2015-01-12,Jordan,Iraq,0,1,False,True
+2015-01-15,Qatar,Iran,0,1,False,True
+2015-01-15,Sweden,Ivory Coast,2,0,True,False
+2015-01-16,Iraq,Japan,0,1,False,True
+2015-01-17,Australia,South Korea,0,1,False,True
+2015-01-18,Tunisia,Cape Verde,1,1,False,False
+2015-01-18,Uzbekistan,Saudi Arabia,3,1,True,False
+2015-01-19,Algeria,South Africa,3,1,True,False
+2015-01-19,Ghana,Senegal,1,2,False,True
+2015-01-20,Japan,Jordan,2,0,True,False
+2015-01-22,Cape Verde,DR Congo,0,0,False,False
+2015-01-22,South Korea,Uzbekistan,2,0,True,False
+2015-01-23,Ghana,Algeria,1,0,True,False
+2015-01-23,Iran,Iraq,3,3,False,False
+2015-01-23,South Africa,Senegal,1,1,False,False
+2015-01-26,DR Congo,Tunisia,1,1,False,False
+2015-01-26,South Korea,Iraq,2,0,True,False
+2015-01-27,Senegal,Algeria,0,2,False,True
+2015-01-27,South Africa,Ghana,1,2,False,True
+2015-01-31,Australia,South Korea,2,1,True,False
+2015-02-01,Ivory Coast,Algeria,3,1,True,False
+2015-02-04,DR Congo,Ivory Coast,1,3,False,True
+2015-02-08,Ivory Coast,Ghana,0,0,False,False
+2015-02-08,United States,Panama,2,0,True,False
+2015-03-25,Germany,Australia,2,2,False,False
+2015-03-26,France,Brazil,1,3,False,True
+2015-03-26,Qatar,Algeria,1,0,True,False
+2015-03-27,Japan,Tunisia,2,0,True,False
+2015-03-27,South Korea,Uzbekistan,1,1,False,False
+2015-03-28,Croatia,Norway,5,1,True,False
+2015-03-28,Ghana,Senegal,1,2,False,True
+2015-03-28,Iraq,DR Congo,2,1,True,False
+2015-03-28,Morocco,Uruguay,0,1,False,True
+2015-03-28,Netherlands,Turkey,1,1,False,False
+2015-03-30,Saudi Arabia,Jordan,2,1,True,False
+2015-03-31,Argentina,Ecuador,2,1,True,False
+2015-03-31,Austria,Bosnia and Herzegovina,1,1,False,False
+2015-03-31,Iraq,DR Congo,1,0,True,False
+2015-03-31,Japan,Uzbekistan,5,1,True,False
+2015-03-31,South Korea,New Zealand,1,0,True,False
+2015-03-31,Netherlands,Spain,2,0,True,False
+2015-03-31,Portugal,Cape Verde,0,2,False,True
+2015-03-31,Sweden,Iran,3,1,True,False
+2015-03-31,Switzerland,United States,1,1,False,False
+2015-04-15,United States,Mexico,2,0,True,False
+2015-06-03,Panama,Ecuador,1,1,False,False
+2015-06-05,Netherlands,United States,3,4,False,True
+2015-06-05,Scotland,Qatar,1,0,True,False
+2015-06-06,Ecuador,Panama,4,0,True,False
+2015-06-07,Brazil,Mexico,2,0,True,False
+2015-06-07,France,Belgium,3,4,False,True
+2015-06-08,Norway,Sweden,0,0,False,False
+2015-06-10,Germany,United States,1,2,False,True
+2015-06-11,Japan,Iraq,4,0,True,False
+2015-06-11,Uzbekistan,Iran,0,1,False,True
+2015-06-13,Argentina,Paraguay,2,2,False,False
+2015-06-16,Argentina,Uruguay,1,0,True,False
+2015-06-17,Brazil,Colombia,0,1,False,True
+2015-06-19,Mexico,Ecuador,1,2,False,True
+2015-06-20,Uruguay,Paraguay,1,1,False,False
+2015-06-26,Argentina,Colombia,0,0,False,False
+2015-06-27,Brazil,Paraguay,1,1,False,False
+2015-06-30,Argentina,Paraguay,6,1,True,False
+2015-07-07,Panama,Haiti,1,1,False,False
+2015-07-10,United States,Haiti,1,0,True,False
+2015-07-13,United States,Panama,1,1,False,False
+2015-07-22,Panama,Mexico,1,2,False,True
+2015-07-25,United States,Panama,1,1,False,False
+2015-08-05,Japan,South Korea,1,1,False,False
+2015-09-03,Belgium,Bosnia and Herzegovina,3,1,True,False
+2015-09-04,Portugal,France,0,1,False,True
+2015-09-06,Norway,Croatia,2,0,True,False
+2015-09-06,Turkey,Netherlands,3,0,True,False
+2015-09-07,Scotland,Germany,2,3,False,True
+2015-09-08,United States,Brazil,1,4,False,True
+2015-09-08,England,Switzerland,2,0,True,False
+2015-09-08,Mexico,Argentina,2,2,False,False
+2015-09-08,South Africa,Senegal,1,0,True,False
+2015-09-08,Sweden,Austria,1,4,False,True
+2015-10-03,Jordan,Iraq,3,0,True,False
+2015-10-08,Argentina,Ecuador,0,2,False,True
+2015-10-08,Jordan,Australia,2,0,True,False
+2015-10-09,Morocco,Ivory Coast,0,1,False,True
+2015-10-10,Czech Republic,Turkey,0,2,False,True
+2015-10-10,United States,Mexico,2,3,False,True
+2015-10-13,Algeria,Senegal,1,0,True,False
+2015-10-13,Iran,Japan,1,1,False,False
+2015-10-13,Netherlands,Czech Republic,2,3,False,True
+2015-10-13,Paraguay,Argentina,0,0,False,False
+2015-10-13,Uruguay,Colombia,3,0,True,False
+2015-11-12,Ecuador,Uruguay,2,1,True,False
+2015-11-13,Argentina,Brazil,1,1,False,False
+2015-11-13,France,Germany,2,0,True,False
+2015-11-13,Qatar,Turkey,1,2,False,True
+2015-11-13,Spain,England,2,0,True,False
+2015-11-17,Austria,Switzerland,1,2,False,True
+2015-11-17,Colombia,Argentina,0,1,False,True
+2015-11-17,England,France,2,0,True,False
+2016-01-27,Egypt,Jordan,0,1,False,True
+2016-03-24,Czech Republic,Scotland,0,1,False,True
+2016-03-24,Ecuador,Paraguay,2,2,False,False
+2016-03-24,Turkey,Sweden,2,1,True,False
+2016-03-25,Brazil,Uruguay,2,2,False,False
+2016-03-25,Canada,Mexico,0,3,False,True
+2016-03-25,Haiti,Panama,0,0,False,False
+2016-03-25,Netherlands,France,2,3,False,True
+2016-03-26,Cape Verde,Morocco,0,1,False,True
+2016-03-26,Germany,England,2,3,False,True
+2016-03-29,Australia,Jordan,5,1,True,False
+2016-03-29,Austria,Turkey,1,2,False,True
+2016-03-29,Colombia,Ecuador,3,1,True,False
+2016-03-29,England,Netherlands,1,2,False,True
+2016-03-29,Mexico,Canada,2,0,True,False
+2016-03-29,Morocco,Cape Verde,2,0,True,False
+2016-03-29,Panama,Haiti,1,0,True,False
+2016-03-29,Paraguay,Brazil,2,2,False,False
+2016-03-29,Portugal,Belgium,2,1,True,False
+2016-03-29,Sweden,Czech Republic,1,1,False,False
+2016-03-29,Switzerland,Bosnia and Herzegovina,0,2,False,True
+2016-05-22,England,Turkey,2,1,True,False
+2016-05-27,England,Australia,2,1,True,False
+2016-05-28,Mexico,Paraguay,1,0,True,False
+2016-05-28,Switzerland,Belgium,1,2,False,True
+2016-05-29,Bosnia and Herzegovina,Spain,1,3,False,True
+2016-05-29,Portugal,Norway,3,0,True,False
+2016-06-01,Spain,South Korea,6,1,True,False
+2016-06-02,England,Portugal,1,0,True,False
+2016-06-03,United States,Colombia,0,2,False,True
+2016-06-04,Austria,Netherlands,0,2,False,True
+2016-06-04,Brazil,Ecuador,0,0,False,False
+2016-06-04,France,Scotland,3,0,True,False
+2016-06-05,Belgium,Norway,3,2,True,False
+2016-06-05,Czech Republic,South Korea,1,2,False,True
+2016-06-05,Mexico,Uruguay,3,1,True,False
+2016-06-07,Canada,Uzbekistan,2,1,True,False
+2016-06-07,Colombia,Paraguay,2,1,True,False
+2016-06-07,Japan,Bosnia and Herzegovina,1,2,False,True
+2016-06-08,Brazil,Haiti,7,1,True,False
+2016-06-10,Argentina,Panama,5,0,True,False
+2016-06-11,United States,Paraguay,1,0,True,False
+2016-06-12,Ecuador,Haiti,4,0,True,False
+2016-06-12,Turkey,Croatia,0,1,False,True
+2016-06-13,Spain,Czech Republic,1,0,True,False
+2016-06-16,United States,Ecuador,2,1,True,False
+2016-06-17,Czech Republic,Croatia,2,2,False,False
+2016-06-17,Spain,Turkey,3,0,True,False
+2016-06-18,Portugal,Austria,0,0,False,False
+2016-06-19,France,Switzerland,0,0,False,False
+2016-06-21,Croatia,Spain,2,1,True,False
+2016-06-21,Czech Republic,Turkey,0,2,False,True
+2016-06-21,United States,Argentina,0,4,False,True
+2016-06-22,Sweden,Belgium,0,1,False,True
+2016-06-25,Croatia,Portugal,0,1,False,True
+2016-06-25,United States,Colombia,0,1,False,True
+2016-07-07,France,Germany,2,0,True,False
+2016-07-10,France,Portugal,0,1,False,True
+2016-07-24,Uzbekistan,Iraq,2,1,True,False
+2016-08-08,Qatar,Iraq,2,1,True,False
+2016-08-18,Jordan,Qatar,2,3,False,True
+2016-09-01,Argentina,Uruguay,1,0,True,False
+2016-09-01,Australia,Iraq,2,0,True,False
+2016-09-01,Belgium,Spain,0,2,False,True
+2016-09-01,Ecuador,Brazil,0,3,False,True
+2016-09-01,Iran,Qatar,2,0,True,False
+2016-09-04,Norway,Germany,0,3,False,True
+2016-09-05,Croatia,Turkey,1,1,False,False
+2016-09-06,Brazil,Colombia,2,1,True,False
+2016-09-06,Iraq,Saudi Arabia,1,2,False,True
+2016-09-06,Qatar,Uzbekistan,0,1,False,True
+2016-09-06,South Africa,Egypt,1,0,True,False
+2016-09-06,Sweden,Netherlands,1,1,False,False
+2016-09-06,Switzerland,Portugal,2,0,True,False
+2016-09-06,Uruguay,Paraguay,4,0,True,False
+2016-10-06,Japan,Iraq,2,1,True,False
+2016-10-06,South Korea,Qatar,3,2,True,False
+2016-10-06,Paraguay,Colombia,0,1,False,True
+2016-10-06,Saudi Arabia,Australia,2,2,False,False
+2016-10-06,Uzbekistan,Iran,0,1,False,True
+2016-10-07,Belgium,Bosnia and Herzegovina,4,0,True,False
+2016-10-08,Germany,Czech Republic,3,0,True,False
+2016-10-08,Mexico,New Zealand,2,1,True,False
+2016-10-08,Senegal,Cape Verde,2,0,True,False
+2016-10-10,Netherlands,France,0,1,False,True
+2016-10-11,Argentina,Paraguay,0,1,False,True
+2016-10-11,Australia,Japan,1,1,False,False
+2016-10-11,Colombia,Uruguay,2,2,False,False
+2016-10-11,Iran,South Korea,1,0,True,False
+2016-10-11,Mexico,Panama,1,0,True,False
+2016-10-11,Morocco,Canada,4,0,True,False
+2016-10-11,South Africa,Ghana,1,1,False,False
+2016-11-06,Jordan,Iraq,0,0,False,False
+2016-11-09,Netherlands,Belgium,1,1,False,False
+2016-11-10,Brazil,Argentina,3,0,True,False
+2016-11-10,Uruguay,Ecuador,2,1,True,False
+2016-11-10,Uzbekistan,Jordan,1,0,True,False
+2016-11-11,Czech Republic,Norway,2,1,True,False
+2016-11-11,England,Scotland,3,0,True,False
+2016-11-11,France,Sweden,2,1,True,False
+2016-11-11,South Korea,Canada,2,0,True,False
+2016-11-11,United States,Mexico,1,2,False,True
+2016-11-12,Morocco,Ivory Coast,0,0,False,False
+2016-11-13,Egypt,Ghana,2,0,True,False
+2016-11-15,Argentina,Colombia,3,0,True,False
+2016-11-15,England,Spain,2,2,False,False
+2016-11-15,France,Ivory Coast,0,0,False,False
+2016-11-15,Japan,Saudi Arabia,2,1,True,False
+2016-11-15,South Korea,Uzbekistan,2,1,True,False
+2016-11-15,Panama,Mexico,0,0,False,False
+2017-01-08,Egypt,Tunisia,1,0,True,False
+2017-01-08,Ivory Coast,Sweden,2,1,True,False
+2017-01-15,Tunisia,Senegal,0,2,False,True
+2017-01-16,DR Congo,Morocco,1,0,True,False
+2017-01-19,Algeria,Tunisia,1,2,False,True
+2017-01-20,Ivory Coast,DR Congo,2,2,False,False
+2017-01-23,Senegal,Algeria,2,2,False,False
+2017-01-24,Morocco,Ivory Coast,1,0,True,False
+2017-01-25,Egypt,Ghana,1,0,True,False
+2017-01-26,Brazil,Colombia,1,0,True,False
+2017-01-29,DR Congo,Ghana,1,2,False,True
+2017-01-29,Egypt,Morocco,1,0,True,False
+2017-03-18,Iran,Iraq,0,1,False,True
+2017-03-22,Germany,England,1,0,True,False
+2017-03-22,Scotland,Canada,1,1,False,False
+2017-03-23,Iraq,Australia,1,1,False,False
+2017-03-23,Paraguay,Ecuador,2,1,True,False
+2017-03-23,Qatar,Iran,0,1,False,True
+2017-03-23,Uruguay,Brazil,1,4,False,True
+2017-03-27,Ivory Coast,Senegal,1,1,False,False
+2017-03-28,Brazil,Paraguay,3,0,True,False
+2017-03-28,Ecuador,Colombia,0,2,False,True
+2017-03-28,France,Spain,0,2,False,True
+2017-03-28,Morocco,Tunisia,1,0,True,False
+2017-03-28,Panama,United States,1,1,False,False
+2017-03-28,Portugal,Sweden,2,3,False,True
+2017-03-28,Saudi Arabia,Iraq,1,0,True,False
+2017-03-28,Uzbekistan,Qatar,1,0,True,False
+2017-05-28,Mexico,Croatia,1,2,False,True
+2017-05-31,Morocco,Netherlands,1,2,False,True
+2017-06-01,Iraq,Jordan,1,0,True,False
+2017-06-02,France,Paraguay,5,0,True,False
+2017-06-04,Netherlands,Ivory Coast,5,0,True,False
+2017-06-05,Belgium,Czech Republic,2,1,True,False
+2017-06-07,Iraq,South Korea,0,0,False,False
+2017-06-07,Spain,Colombia,2,2,False,False
+2017-06-08,Australia,Saudi Arabia,3,2,True,False
+2017-06-09,Argentina,Brazil,1,0,True,False
+2017-06-09,Sweden,France,2,1,True,False
+2017-06-10,Norway,Czech Republic,1,1,False,False
+2017-06-10,Scotland,England,2,2,False,False
+2017-06-11,Mexico,United States,1,1,False,False
+2017-06-11,Tunisia,Egypt,1,0,True,False
+2017-06-12,Iran,Uzbekistan,2,0,True,False
+2017-06-13,Australia,Brazil,0,4,False,True
+2017-06-13,Canada,Curaçao,2,1,True,False
+2017-06-13,France,England,3,2,True,False
+2017-06-13,Iraq,Japan,1,1,False,False
+2017-06-13,Norway,Sweden,1,1,False,False
+2017-06-13,Qatar,South Korea,3,2,True,False
+2017-06-18,Portugal,Mexico,2,2,False,False
+2017-06-19,Australia,Germany,2,3,False,True
+2017-06-21,Mexico,New Zealand,2,1,True,False
+2017-06-24,New Zealand,Portugal,0,4,False,True
+2017-06-29,Germany,Mexico,4,1,True,False
+2017-07-01,Mexico,Paraguay,2,1,True,False
+2017-07-01,United States,Ghana,2,1,True,False
+2017-07-02,Portugal,Mexico,2,1,True,False
+2017-07-08,United States,Panama,1,1,False,False
+2017-07-16,Curaçao,Mexico,0,2,False,True
+2017-08-31,Brazil,Ecuador,2,0,True,False
+2017-08-31,France,Netherlands,4,0,True,False
+2017-08-31,Japan,Australia,2,0,True,False
+2017-08-31,South Korea,Iran,0,0,False,False
+2017-08-31,Uruguay,Argentina,0,0,False,False
+2017-09-01,Cape Verde,South Africa,2,1,True,False
+2017-09-01,Czech Republic,Germany,1,2,False,True
+2017-09-01,Mexico,Panama,1,0,True,False
+2017-09-01,Tunisia,DR Congo,2,1,True,False
+2017-09-04,Germany,Norway,6,0,True,False
+2017-09-05,Colombia,Brazil,1,1,False,False
+2017-09-05,DR Congo,Tunisia,2,2,False,False
+2017-09-05,Paraguay,Uruguay,1,2,False,True
+2017-09-05,Saudi Arabia,Japan,1,0,True,False
+2017-09-05,South Africa,Cape Verde,1,2,False,True
+2017-09-05,Turkey,Croatia,1,0,True,False
+2017-09-05,Uzbekistan,South Korea,0,0,False,False
+2017-10-05,Colombia,Paraguay,1,2,False,True
+2017-10-06,Japan,New Zealand,2,1,True,False
+2017-10-06,United States,Panama,4,0,True,False
+2017-10-07,Bosnia and Herzegovina,Belgium,3,4,False,True
+2017-10-07,Cape Verde,Senegal,0,2,False,True
+2017-10-10,Ecuador,Argentina,1,3,False,True
+2017-10-10,Japan,Haiti,3,3,False,False
+2017-10-10,South Korea,Morocco,1,3,False,True
+2017-10-10,Netherlands,Sweden,2,0,True,False
+2017-10-10,Portugal,Switzerland,2,0,True,False
+2017-10-10,Qatar,Curaçao,1,2,False,True
+2017-10-10,Saudi Arabia,Ghana,0,3,False,True
+2017-11-09,Iran,Panama,2,1,True,False
+2017-11-09,Scotland,Netherlands,0,1,False,True
+2017-11-10,Belgium,Mexico,3,3,False,False
+2017-11-10,England,Germany,0,0,False,False
+2017-11-10,Japan,Brazil,1,3,False,True
+2017-11-10,South Korea,Colombia,2,1,True,False
+2017-11-10,Portugal,Saudi Arabia,3,0,True,False
+2017-11-10,South Africa,Senegal,0,2,False,True
+2017-11-11,Ivory Coast,Morocco,0,2,False,True
+2017-11-11,Qatar,Czech Republic,0,1,False,True
+2017-11-12,Ghana,Egypt,1,1,False,False
+2017-11-14,Austria,Uruguay,2,1,True,False
+2017-11-14,Belgium,Japan,1,0,True,False
+2017-11-14,England,Brazil,0,0,False,False
+2017-11-14,Germany,France,2,2,False,False
+2017-11-14,Portugal,United States,1,1,False,False
+2017-11-14,Senegal,South Africa,2,1,True,False
+2017-12-16,Japan,South Korea,1,4,False,True
+2017-12-26,Iraq,Qatar,2,1,True,False
+2018-01-28,United States,Bosnia and Herzegovina,0,0,False,False
+2018-01-31,Mexico,Bosnia and Herzegovina,1,0,True,False
+2018-02-28,Iraq,Saudi Arabia,4,1,True,False
+2018-03-21,Iraq,Qatar,2,3,False,True
+2018-03-23,France,Colombia,2,3,False,True
+2018-03-23,Germany,Spain,1,1,False,False
+2018-03-23,Netherlands,England,0,1,False,True
+2018-03-23,Norway,Australia,4,1,True,False
+2018-03-23,Portugal,Egypt,2,1,True,False
+2018-03-23,Senegal,Uzbekistan,1,1,False,False
+2018-03-23,Tunisia,Iran,1,0,True,False
+2018-03-23,Uruguay,Czech Republic,2,0,True,False
+2018-03-24,Canada,New Zealand,1,0,True,False
+2018-03-26,Portugal,Netherlands,0,3,False,True
+2018-03-27,Algeria,Iran,1,2,False,True
+2018-03-27,Australia,Colombia,0,0,False,False
+2018-03-27,Belgium,Saudi Arabia,4,0,True,False
+2018-03-27,Bosnia and Herzegovina,Senegal,0,0,False,False
+2018-03-27,Germany,Brazil,0,1,False,True
+2018-03-27,Mexico,Croatia,0,1,False,True
+2018-03-27,Morocco,Uzbekistan,2,0,True,False
+2018-03-27,Spain,Argentina,6,1,True,False
+2018-03-27,Switzerland,Panama,6,0,True,False
+2018-03-27,United States,Paraguay,1,0,True,False
+2018-05-09,Algeria,Saudi Arabia,0,2,False,True
+2018-05-19,Iran,Uzbekistan,1,0,True,False
+2018-05-28,Portugal,Tunisia,2,2,False,False
+2018-05-28,Turkey,Iran,2,1,True,False
+2018-05-29,Argentina,Haiti,4,0,True,False
+2018-05-30,Japan,Ghana,0,2,False,True
+2018-06-01,Turkey,Tunisia,2,2,False,False
+2018-06-01,South Korea,Bosnia and Herzegovina,1,3,False,True
+2018-06-01,Czech Republic,Australia,0,4,False,True
+2018-06-01,Algeria,Cape Verde,2,3,False,True
+2018-06-01,Colombia,Egypt,0,0,False,False
+2018-06-02,Mexico,Scotland,1,0,True,False
+2018-06-02,Belgium,Portugal,0,0,False,False
+2018-06-02,Austria,Germany,2,1,True,False
+2018-06-03,Spain,Switzerland,1,1,False,False
+2018-06-03,Croatia,Brazil,0,2,False,True
+2018-06-06,Norway,Panama,1,0,True,False
+2018-06-06,Belgium,Egypt,3,0,True,False
+2018-06-07,Uruguay,Uzbekistan,3,0,True,False
+2018-06-07,Portugal,Algeria,3,0,True,False
+2018-06-08,Germany,Saudi Arabia,2,1,True,False
+2018-06-08,Croatia,Senegal,2,1,True,False
+2018-06-08,Switzerland,Japan,2,0,True,False
+2018-06-09,Tunisia,Spain,0,1,False,True
+2018-06-09,France,United States,1,1,False,False
+2018-06-10,Austria,Brazil,0,3,False,True
+2018-06-11,South Korea,Senegal,0,2,False,True
+2018-06-12,Japan,Paraguay,4,2,True,False
+2018-06-15,Egypt,Uruguay,0,1,False,True
+2018-06-15,Morocco,Iran,0,1,False,True
+2018-06-15,Portugal,Spain,3,3,False,False
+2018-06-16,France,Australia,2,1,True,False
+2018-06-17,Germany,Mexico,0,1,False,True
+2018-06-17,Brazil,Switzerland,1,1,False,False
+2018-06-18,Sweden,South Korea,1,0,True,False
+2018-06-18,Belgium,Panama,3,0,True,False
+2018-06-18,Tunisia,England,1,2,False,True
+2018-06-19,Colombia,Japan,1,2,False,True
+2018-06-20,Portugal,Morocco,1,0,True,False
+2018-06-20,Uruguay,Saudi Arabia,1,0,True,False
+2018-06-20,Iran,Spain,0,1,False,True
+2018-06-21,Argentina,Croatia,0,3,False,True
+2018-06-23,Belgium,Tunisia,5,2,True,False
+2018-06-23,South Korea,Mexico,1,2,False,True
+2018-06-23,Germany,Sweden,2,1,True,False
+2018-06-24,England,Panama,6,1,True,False
+2018-06-24,Japan,Senegal,2,2,False,False
+2018-06-25,Saudi Arabia,Egypt,2,1,True,False
+2018-06-25,Spain,Morocco,2,2,False,False
+2018-06-25,Iran,Portugal,1,1,False,False
+2018-06-27,South Korea,Germany,2,0,True,False
+2018-06-27,Mexico,Sweden,0,3,False,True
+2018-06-28,Senegal,Colombia,0,1,False,True
+2018-06-28,Panama,Tunisia,1,2,False,True
+2018-06-28,England,Belgium,0,1,False,True
+2018-06-30,France,Argentina,4,3,True,False
+2018-06-30,Uruguay,Portugal,2,1,True,False
+2018-07-02,Brazil,Mexico,2,0,True,False
+2018-07-02,Belgium,Japan,3,2,True,False
+2018-07-03,Sweden,Switzerland,1,0,True,False
+2018-07-03,Colombia,England,1,1,False,False
+2018-07-06,Uruguay,France,0,2,False,True
+2018-07-06,Brazil,Belgium,1,2,False,True
+2018-07-07,Sweden,England,0,2,False,True
+2018-07-10,France,Belgium,1,0,True,False
+2018-07-11,Croatia,England,2,1,True,False
+2018-07-14,Belgium,England,2,0,True,False
+2018-07-15,France,Croatia,4,2,True,False
+2018-09-06,Germany,France,0,0,False,False
+2018-09-06,Austria,Sweden,2,0,True,False
+2018-09-06,Portugal,Croatia,1,1,False,False
+2018-09-07,Mexico,Uruguay,1,4,False,True
+2018-09-07,Scotland,Belgium,0,4,False,True
+2018-09-07,United States,Brazil,0,2,False,True
+2018-09-08,England,Spain,1,2,False,True
+2018-09-09,France,Netherlands,2,1,True,False
+2018-09-10,Sweden,Turkey,2,3,False,True
+2018-09-11,Spain,Croatia,6,0,True,False
+2018-09-11,Bosnia and Herzegovina,Austria,1,0,True,False
+2018-09-11,Colombia,Argentina,0,0,False,False
+2018-09-11,England,Switzerland,1,0,True,False
+2018-09-11,United States,Mexico,1,0,True,False
+2018-09-11,Uzbekistan,Iran,0,1,False,True
+2018-10-11,Argentina,Iraq,4,0,True,False
+2018-10-11,Turkey,Bosnia and Herzegovina,0,0,False,False
+2018-10-11,United States,Colombia,2,4,False,True
+2018-10-12,Belgium,Switzerland,2,1,True,False
+2018-10-12,Croatia,England,0,0,False,False
+2018-10-12,Japan,Panama,3,0,True,False
+2018-10-12,South Korea,Uruguay,2,1,True,False
+2018-10-12,Qatar,Ecuador,4,3,True,False
+2018-10-12,Saudi Arabia,Brazil,0,2,False,True
+2018-10-13,Netherlands,Germany,3,0,True,False
+2018-10-14,Scotland,Portugal,1,3,False,True
+2018-10-15,Spain,England,2,3,False,True
+2018-10-15,Croatia,Jordan,2,1,True,False
+2018-10-15,Saudi Arabia,Iraq,1,1,False,False
+2018-10-16,France,Germany,2,1,True,False
+2018-10-16,Belgium,Netherlands,1,1,False,False
+2018-10-16,Japan,Uruguay,4,3,True,False
+2018-10-16,South Korea,Panama,2,2,False,False
+2018-10-16,Uzbekistan,Qatar,2,0,True,False
+2018-10-16,Argentina,Brazil,0,1,False,True
+2018-11-14,Switzerland,Qatar,0,1,False,True
+2018-11-15,Croatia,Spain,3,2,True,False
+2018-11-15,Austria,Bosnia and Herzegovina,0,0,False,False
+2018-11-15,England,United States,3,0,True,False
+2018-11-16,Netherlands,France,2,0,True,False
+2018-11-16,Argentina,Mexico,2,0,True,False
+2018-11-16,Brazil,Uruguay,1,0,True,False
+2018-11-16,Egypt,Tunisia,3,2,True,False
+2018-11-17,Turkey,Sweden,0,1,False,True
+2018-11-17,Australia,South Korea,1,1,False,False
+2018-11-18,Switzerland,Belgium,5,2,True,False
+2018-11-18,England,Croatia,2,1,True,False
+2018-11-18,Spain,Bosnia and Herzegovina,1,0,True,False
+2018-11-19,Germany,Netherlands,2,2,False,False
+2018-11-20,Argentina,Mexico,2,0,True,False
+2018-11-20,France,Uruguay,1,0,True,False
+2018-11-20,Jordan,Saudi Arabia,1,1,False,False
+2018-11-20,South Korea,Uzbekistan,4,0,True,False
+2018-11-20,Panama,Ecuador,1,2,False,True
+2018-11-20,South Africa,Paraguay,1,1,False,False
+2018-11-20,Tunisia,Morocco,0,1,False,True
+2018-12-23,Qatar,Jordan,2,0,True,False
+2018-12-27,Qatar,Algeria,0,1,False,True
+2018-12-31,South Korea,Saudi Arabia,0,0,False,False
+2018-12-31,Qatar,Iran,1,2,False,True
+2019-01-06,Australia,Jordan,0,1,False,True
+2019-01-16,Iran,Iraq,0,0,False,False
+2019-01-17,Saudi Arabia,Qatar,0,2,False,True
+2019-01-17,Japan,Uzbekistan,2,1,True,False
+2019-01-21,Australia,Uzbekistan,0,0,False,False
+2019-01-21,Japan,Saudi Arabia,1,0,True,False
+2019-01-22,Qatar,Iraq,1,0,True,False
+2019-01-25,South Korea,Qatar,0,1,False,True
+2019-01-27,United States,Panama,3,0,True,False
+2019-01-28,Iran,Japan,0,3,False,True
+2019-02-01,Japan,Qatar,1,3,False,True
+2019-03-21,United States,Ecuador,1,0,True,False
+2019-03-22,Japan,Colombia,0,1,False,True
+2019-03-22,England,Czech Republic,5,0,True,False
+2019-03-23,Brazil,Panama,1,1,False,False
+2019-03-23,Spain,Norway,2,1,True,False
+2019-03-24,Netherlands,Germany,2,3,False,True
+2019-03-26,Algeria,Tunisia,1,0,True,False
+2019-03-26,Czech Republic,Brazil,1,3,False,True
+2019-03-26,South Korea,Colombia,2,1,True,False
+2019-03-26,Morocco,Argentina,0,1,False,True
+2019-03-26,Paraguay,Mexico,2,4,False,True
+2019-03-26,Norway,Sweden,3,3,False,False
+2019-06-02,Turkey,Uzbekistan,2,0,True,False
+2019-06-03,Colombia,Panama,3,0,True,False
+2019-06-05,Brazil,Qatar,2,0,True,False
+2019-06-05,Portugal,Switzerland,3,1,True,False
+2019-06-06,England,Netherlands,1,3,False,True
+2019-06-07,South Korea,Australia,1,0,True,False
+2019-06-07,Tunisia,Iraq,2,0,True,False
+2019-06-07,Uruguay,Panama,3,0,True,False
+2019-06-08,Turkey,France,2,0,True,False
+2019-06-09,Mexico,Ecuador,3,2,True,False
+2019-06-09,Switzerland,England,0,0,False,False
+2019-06-09,Portugal,Netherlands,1,0,True,False
+2019-06-10,Spain,Sweden,3,0,True,False
+2019-06-11,Belgium,Scotland,3,0,True,False
+2019-06-11,Croatia,Tunisia,1,2,False,True
+2019-06-11,South Korea,Iran,1,1,False,False
+2019-06-15,Argentina,Colombia,0,2,False,True
+2019-06-15,Ghana,South Africa,0,0,False,False
+2019-06-16,Paraguay,Qatar,2,2,False,False
+2019-06-16,Uruguay,Ecuador,4,0,True,False
+2019-06-19,Colombia,Qatar,1,0,True,False
+2019-06-19,Argentina,Paraguay,1,1,False,False
+2019-06-19,Mexico,Canada,3,1,True,False
+2019-06-20,Uruguay,Japan,2,2,False,False
+2019-06-23,Colombia,Paraguay,1,0,True,False
+2019-06-23,Qatar,Argentina,0,2,False,True
+2019-06-24,Ivory Coast,South Africa,1,0,True,False
+2019-06-24,Ecuador,Japan,1,1,False,False
+2019-06-26,Egypt,DR Congo,2,0,True,False
+2019-06-26,United States,Panama,1,0,True,False
+2019-06-27,Senegal,Algeria,0,1,False,True
+2019-06-27,Brazil,Paraguay,0,0,False,False
+2019-06-28,Morocco,Ivory Coast,1,0,True,False
+2019-06-29,Haiti,Canada,3,2,True,False
+2019-06-30,United States,Curaçao,1,0,True,False
+2019-07-01,South Africa,Morocco,0,1,False,True
+2019-07-02,Brazil,Argentina,2,0,True,False
+2019-07-02,Haiti,Mexico,0,1,False,True
+2019-07-06,Egypt,South Africa,0,1,False,True
+2019-07-07,United States,Mexico,0,1,False,True
+2019-07-08,Ghana,Tunisia,1,1,False,False
+2019-07-11,Ivory Coast,Algeria,1,1,False,False
+2019-07-14,Senegal,Tunisia,1,0,True,False
+2019-07-19,Senegal,Algeria,0,1,False,True
+2019-08-10,Jordan,Saudi Arabia,3,0,True,False
+2019-09-05,Japan,Paraguay,2,0,True,False
+2019-09-06,Brazil,Colombia,2,2,False,False
+2019-09-06,United States,Mexico,0,3,False,True
+2019-09-06,Germany,Netherlands,2,4,False,True
+2019-09-07,Curaçao,Haiti,1,0,True,False
+2019-09-08,Sweden,Norway,1,1,False,False
+2019-09-09,Iraq,Uzbekistan,0,0,False,False
+2019-09-09,Scotland,Belgium,0,4,False,True
+2019-09-10,Argentina,Mexico,4,0,True,False
+2019-09-10,Ivory Coast,Tunisia,2,1,True,False
+2019-09-10,Jordan,Paraguay,2,4,False,True
+2019-09-10,United States,Uruguay,1,1,False,False
+2019-09-10,Haiti,Curaçao,1,1,False,False
+2019-10-09,Germany,Argentina,2,2,False,False
+2019-10-10,Algeria,DR Congo,1,1,False,False
+2019-10-10,Brazil,Senegal,1,1,False,False
+2019-10-11,Czech Republic,England,2,1,True,False
+2019-10-12,Norway,Spain,1,1,False,False
+2019-10-12,Ivory Coast,DR Congo,3,1,True,False
+2019-10-13,Ecuador,Argentina,1,6,False,True
+2019-10-14,France,Turkey,1,1,False,False
+2019-10-15,Sweden,Spain,1,1,False,False
+2019-10-15,Algeria,Colombia,3,0,True,False
+2019-10-15,Canada,United States,2,0,True,False
+2019-10-15,Mexico,Panama,3,1,True,False
+2019-11-14,Ghana,South Africa,2,0,True,False
+2019-11-14,Jordan,Australia,0,1,False,True
+2019-11-14,Iraq,Iran,2,1,True,False
+2019-11-14,Uzbekistan,Saudi Arabia,2,3,False,True
+2019-11-15,Brazil,Argentina,0,1,False,True
+2019-11-15,United States,Canada,4,1,True,False
+2019-11-15,Panama,Mexico,0,3,False,True
+2019-11-18,Argentina,Uruguay,2,2,False,False
+2019-11-19,Brazil,South Korea,3,0,True,False
+2019-11-19,Ecuador,Colombia,0,1,False,True
+2019-11-19,Saudi Arabia,Paraguay,0,0,False,False
+2019-11-26,Qatar,Iraq,1,2,False,True
+2019-12-05,Qatar,Saudi Arabia,0,1,False,True
+2019-12-18,South Korea,Japan,1,0,True,False
+2020-09-03,Germany,Spain,1,1,False,False
+2020-09-04,Norway,Austria,1,2,False,True
+2020-09-05,Portugal,Croatia,4,1,True,False
+2020-09-05,Sweden,France,0,1,False,True
+2020-09-06,Switzerland,Germany,1,1,False,False
+2020-09-07,Czech Republic,Scotland,1,2,False,True
+2020-09-08,France,Croatia,4,2,True,False
+2020-09-08,Sweden,Portugal,0,2,False,True
+2020-10-07,Germany,Turkey,3,3,False,False
+2020-10-07,Netherlands,Mexico,0,1,False,True
+2020-10-07,Portugal,Spain,0,0,False,False
+2020-10-07,Switzerland,Croatia,1,2,False,True
+2020-10-08,Belgium,Ivory Coast,1,1,False,False
+2020-10-08,Uzbekistan,Iran,1,2,False,True
+2020-10-08,Argentina,Ecuador,1,0,True,False
+2020-10-09,Morocco,Senegal,3,1,True,False
+2020-10-10,Spain,Switzerland,1,0,True,False
+2020-10-11,Bosnia and Herzegovina,Netherlands,0,0,False,False
+2020-10-11,England,Belgium,2,1,True,False
+2020-10-11,Croatia,Sweden,2,1,True,False
+2020-10-11,France,Portugal,0,0,False,False
+2020-10-12,Ghana,Qatar,5,1,True,False
+2020-10-13,Germany,Switzerland,3,3,False,False
+2020-10-13,Japan,Ivory Coast,1,0,True,False
+2020-10-13,Mexico,Algeria,2,2,False,False
+2020-10-13,Morocco,DR Congo,1,1,False,False
+2020-10-13,Ecuador,Uruguay,4,2,True,False
+2020-10-14,Portugal,Sweden,3,0,True,False
+2020-10-14,Croatia,France,1,2,False,True
+2020-10-14,Scotland,Czech Republic,1,0,True,False
+2020-11-11,Belgium,Switzerland,2,1,True,False
+2020-11-11,Germany,Czech Republic,1,0,True,False
+2020-11-11,Netherlands,Spain,1,1,False,False
+2020-11-11,Turkey,Croatia,3,3,False,False
+2020-11-12,Bosnia and Herzegovina,Iran,0,2,False,True
+2020-11-12,Jordan,Iraq,0,0,False,False
+2020-11-12,Argentina,Paraguay,1,1,False,False
+2020-11-13,Japan,Panama,1,0,True,False
+2020-11-13,Colombia,Uruguay,0,3,False,True
+2020-11-14,Portugal,France,0,1,False,True
+2020-11-14,Sweden,Croatia,2,1,True,False
+2020-11-14,Switzerland,Spain,1,1,False,False
+2020-11-14,Mexico,South Korea,3,2,True,False
+2020-11-15,Netherlands,Bosnia and Herzegovina,3,1,True,False
+2020-11-15,Belgium,England,2,0,True,False
+2020-11-16,United States,Panama,6,2,True,False
+2020-11-17,Croatia,Portugal,2,3,False,True
+2020-11-17,France,Sweden,4,2,True,False
+2020-11-17,Spain,Germany,6,0,True,False
+2020-11-17,Japan,Mexico,0,2,False,True
+2020-11-17,South Korea,Qatar,2,1,True,False
+2020-11-17,Uzbekistan,Iraq,1,2,False,True
+2020-11-17,Ecuador,Colombia,6,1,True,False
+2020-11-17,Uruguay,Brazil,0,2,False,True
+2020-11-18,Austria,Norway,1,1,False,False
+2021-02-15,Jordan,Uzbekistan,0,2,False,True
+2021-03-24,Turkey,Netherlands,4,2,True,False
+2021-03-25,Japan,South Korea,3,0,True,False
+2021-03-25,Scotland,Austria,2,2,False,False
+2021-03-25,South Africa,Ghana,1,1,False,False
+2021-03-27,Czech Republic,Belgium,1,1,False,False
+2021-03-27,Norway,Turkey,0,3,False,True
+2021-03-29,Uzbekistan,Iraq,0,1,False,True
+2021-03-31,Bosnia and Herzegovina,France,0,1,False,True
+2021-05-30,Switzerland,United States,2,1,True,False
+2021-06-02,England,Austria,1,0,True,False
+2021-06-02,Netherlands,Scotland,2,2,False,False
+2021-06-03,Uruguay,Paraguay,0,0,False,False
+2021-06-04,Spain,Portugal,0,0,False,False
+2021-06-04,Brazil,Ecuador,2,0,True,False
+2021-06-05,Tunisia,DR Congo,1,0,True,False
+2021-06-06,Belgium,Croatia,1,0,True,False
+2021-06-06,United States,Mexico,3,2,True,False
+2021-06-08,Morocco,Ghana,1,0,True,False
+2021-06-08,Senegal,Cape Verde,2,0,True,False
+2021-06-08,Colombia,Argentina,2,2,False,False
+2021-06-08,Paraguay,Brazil,0,2,False,True
+2021-06-11,Tunisia,Algeria,0,2,False,True
+2021-06-12,Haiti,Canada,0,1,False,True
+2021-06-12,Panama,Curaçao,2,1,True,False
+2021-06-12,Ghana,Ivory Coast,0,0,False,False
+2021-06-13,England,Croatia,1,0,True,False
+2021-06-13,Colombia,Ecuador,1,0,True,False
+2021-06-14,Scotland,Czech Republic,0,2,False,True
+2021-06-14,Spain,Sweden,0,0,False,False
+2021-06-15,Australia,Jordan,1,0,True,False
+2021-06-15,Iran,Iraq,1,0,True,False
+2021-06-15,Saudi Arabia,Uzbekistan,3,0,True,False
+2021-06-15,Canada,Haiti,3,0,True,False
+2021-06-15,Curaçao,Panama,0,0,False,False
+2021-06-15,Germany,France,0,1,False,True
+2021-06-17,Netherlands,Austria,2,0,True,False
+2021-06-18,Croatia,Czech Republic,1,1,False,False
+2021-06-18,England,Scotland,0,0,False,False
+2021-06-18,Argentina,Uruguay,1,0,True,False
+2021-06-19,Germany,Portugal,4,2,True,False
+2021-06-20,Switzerland,Turkey,3,1,True,False
+2021-06-21,Argentina,Paraguay,1,0,True,False
+2021-06-22,Scotland,Croatia,1,3,False,True
+2021-06-22,England,Czech Republic,1,0,True,False
+2021-06-23,Portugal,France,2,2,False,False
+2021-06-23,Brazil,Colombia,2,1,True,False
+2021-06-27,Netherlands,Czech Republic,0,2,False,True
+2021-06-27,Belgium,Portugal,1,0,True,False
+2021-06-27,Brazil,Ecuador,1,1,False,False
+2021-06-28,Croatia,Spain,3,5,False,True
+2021-06-28,France,Switzerland,3,3,False,False
+2021-06-28,Uruguay,Paraguay,1,0,True,False
+2021-06-29,England,Germany,2,0,True,False
+2021-06-30,Mexico,Panama,3,0,True,False
+2021-07-02,Switzerland,Spain,1,1,False,False
+2021-07-03,Uruguay,Colombia,0,0,False,False
+2021-07-03,Argentina,Ecuador,3,0,True,False
+2021-07-06,Argentina,Colombia,1,1,False,False
+2021-07-10,Brazil,Argentina,0,1,False,True
+2021-07-11,United States,Haiti,1,0,True,False
+2021-07-13,Qatar,Panama,3,3,False,False
+2021-07-15,Haiti,Canada,1,4,False,True
+2021-07-18,South Africa,Senegal,0,0,False,False
+2021-07-18,United States,Canada,1,0,True,False
+2021-07-29,Mexico,Canada,2,1,True,False
+2021-07-29,United States,Qatar,1,0,True,False
+2021-08-01,United States,Mexico,1,0,True,False
+2021-09-01,France,Bosnia and Herzegovina,1,1,False,False
+2021-09-01,Norway,Netherlands,1,1,False,False
+2021-09-02,South Korea,Iraq,0,0,False,False
+2021-09-02,Sweden,Spain,2,1,True,False
+2021-09-02,Ecuador,Paraguay,2,0,True,False
+2021-09-04,Haiti,Jordan,2,0,True,False
+2021-09-04,Qatar,Portugal,1,3,False,True
+2021-09-05,Sweden,Uzbekistan,2,1,True,False
+2021-09-05,Belgium,Czech Republic,3,0,True,False
+2021-09-05,Paraguay,Colombia,1,1,False,False
+2021-09-05,United States,Canada,1,1,False,False
+2021-09-06,South Africa,Ghana,1,0,True,False
+2021-09-07,Iraq,Iran,0,3,False,True
+2021-09-07,Austria,Scotland,0,1,False,True
+2021-09-07,Netherlands,Turkey,6,1,True,False
+2021-09-08,Panama,Mexico,1,1,False,False
+2021-09-09,Uruguay,Ecuador,1,0,True,False
+2021-10-07,Saudi Arabia,Japan,1,0,True,False
+2021-10-07,Mexico,Canada,1,1,False,False
+2021-10-07,Paraguay,Argentina,0,0,False,False
+2021-10-07,Uruguay,Colombia,0,0,False,False
+2021-10-07,Belgium,France,2,3,False,True
+2021-10-08,Turkey,Norway,1,1,False,False
+2021-10-09,Curaçao,New Zealand,1,2,False,True
+2021-10-09,Portugal,Qatar,3,0,True,False
+2021-10-10,Panama,United States,1,0,True,False
+2021-10-10,Colombia,Brazil,0,0,False,False
+2021-10-10,Argentina,Uruguay,3,0,True,False
+2021-10-10,Spain,France,1,2,False,True
+2021-10-12,Iran,South Korea,1,1,False,False
+2021-10-12,Japan,Australia,2,1,True,False
+2021-10-12,Jordan,Uzbekistan,3,0,True,False
+2021-10-13,Canada,Panama,4,1,True,False
+2021-10-14,Colombia,Ecuador,0,0,False,False
+2021-10-14,Brazil,Uruguay,4,1,True,False
+2021-10-27,Mexico,Ecuador,2,3,False,True
+2021-11-11,Australia,Saudi Arabia,0,0,False,False
+2021-11-11,Brazil,Colombia,1,0,True,False
+2021-11-12,United States,Mexico,2,0,True,False
+2021-11-12,Uruguay,Argentina,0,1,False,True
+2021-11-14,Ghana,South Africa,1,0,True,False
+2021-11-14,Spain,Sweden,1,0,True,False
+2021-11-16,Iraq,South Korea,0,3,False,True
+2021-11-16,Canada,Mexico,2,1,True,False
+2021-11-16,Netherlands,Norway,2,0,True,False
+2021-11-16,Colombia,Paraguay,0,0,False,False
+2021-11-16,Argentina,Brazil,0,0,False,False
+2021-12-01,Saudi Arabia,Jordan,0,1,False,True
+2021-12-04,Jordan,Morocco,0,4,False,True
+2021-12-06,Qatar,Iraq,3,0,True,False
+2021-12-07,Morocco,Saudi Arabia,1,0,True,False
+2021-12-07,Algeria,Egypt,1,1,False,False
+2021-12-11,Egypt,Jordan,3,1,True,False
+2021-12-11,Morocco,Algeria,2,2,False,False
+2021-12-15,Tunisia,Egypt,1,0,True,False
+2021-12-15,Qatar,Algeria,1,2,False,True
+2021-12-18,Qatar,Egypt,0,0,False,False
+2021-12-18,Tunisia,Algeria,0,2,False,True
+2021-12-18,United States,Bosnia and Herzegovina,1,0,True,False
+2022-01-05,Algeria,Ghana,3,0,True,False
+2022-01-10,Morocco,Ghana,1,0,True,False
+2022-01-20,Ivory Coast,Algeria,3,1,True,False
+2022-01-25,Senegal,Cape Verde,2,0,True,False
+2022-01-26,Ivory Coast,Egypt,0,0,False,False
+2022-01-27,Iran,Iraq,1,0,True,False
+2022-01-27,Ecuador,Brazil,1,1,False,False
+2022-01-27,Paraguay,Uruguay,0,1,False,True
+2022-01-28,Jordan,New Zealand,3,1,True,False
+2022-01-30,Egypt,Morocco,2,1,True,False
+2022-01-30,Canada,United States,2,0,True,False
+2022-02-01,Japan,Saudi Arabia,2,0,True,False
+2022-02-01,Argentina,Colombia,1,0,True,False
+2022-02-01,Brazil,Paraguay,4,0,True,False
+2022-02-02,Mexico,Panama,1,0,True,False
+2022-02-06,Senegal,Egypt,0,0,False,False
+2022-03-24,Mexico,United States,0,0,False,False
+2022-03-24,South Korea,Iran,2,0,True,False
+2022-03-24,Australia,Japan,0,2,False,True
+2022-03-24,Paraguay,Ecuador,3,1,True,False
+2022-03-24,Portugal,Turkey,3,1,True,False
+2022-03-24,Sweden,Czech Republic,1,0,True,False
+2022-03-25,DR Congo,Morocco,1,1,False,False
+2022-03-25,Egypt,Senegal,1,0,True,False
+2022-03-25,France,Ivory Coast,2,1,True,False
+2022-03-26,England,Switzerland,2,1,True,False
+2022-03-27,United States,Panama,5,1,True,False
+2022-03-29,Morocco,DR Congo,4,1,True,False
+2022-03-29,Senegal,Egypt,1,0,True,False
+2022-03-29,Saudi Arabia,Australia,1,0,True,False
+2022-03-29,Ecuador,Argentina,1,1,False,False
+2022-03-29,Austria,Scotland,2,2,False,False
+2022-03-29,England,Ivory Coast,3,0,True,False
+2022-03-29,France,South Africa,5,0,True,False
+2022-03-29,Netherlands,Germany,1,1,False,False
+2022-03-30,Panama,Canada,1,0,True,False
+2022-06-01,Australia,Jordan,2,1,True,False
+2022-06-01,United States,Morocco,3,0,True,False
+2022-06-02,Czech Republic,Switzerland,2,1,True,False
+2022-06-02,Spain,Portugal,1,1,False,False
+2022-06-02,Japan,Paraguay,4,1,True,False
+2022-06-02,South Korea,Brazil,1,5,False,True
+2022-06-02,Mexico,Uruguay,0,3,False,True
+2022-06-03,Croatia,Austria,0,3,False,True
+2022-06-03,Belgium,Netherlands,1,4,False,True
+2022-06-05,Portugal,Switzerland,4,0,True,False
+2022-06-05,Czech Republic,Spain,2,2,False,False
+2022-06-05,Sweden,Norway,1,2,False,True
+2022-06-05,Mexico,Ecuador,0,0,False,False
+2022-06-05,Saudi Arabia,Colombia,0,1,False,True
+2022-06-05,United States,Uruguay,0,0,False,False
+2022-06-06,Croatia,France,1,1,False,False
+2022-06-06,Japan,Brazil,0,1,False,True
+2022-06-07,Germany,England,1,1,False,False
+2022-06-09,Morocco,South Africa,2,1,True,False
+2022-06-09,Canada,Curaçao,4,0,True,False
+2022-06-09,Portugal,Czech Republic,2,0,True,False
+2022-06-09,Switzerland,Spain,0,1,False,True
+2022-06-10,Austria,France,1,1,False,False
+2022-06-10,South Korea,Paraguay,2,2,False,False
+2022-06-10,Japan,Ghana,4,1,True,False
+2022-06-11,Ecuador,Cape Verde,1,0,True,False
+2022-06-11,Uruguay,Panama,5,0,True,False
+2022-06-12,Spain,Czech Republic,2,0,True,False
+2022-06-12,Switzerland,Portugal,1,0,True,False
+2022-06-12,Norway,Sweden,3,2,True,False
+2022-06-12,Iran,Algeria,1,2,False,True
+2022-06-13,France,Croatia,0,1,False,True
+2022-06-14,Japan,Tunisia,0,3,False,True
+2022-06-14,South Korea,Egypt,4,1,True,False
+2022-07-27,Japan,South Korea,3,0,True,False
+2022-08-31,Mexico,Paraguay,0,1,False,True
+2022-09-22,Australia,New Zealand,1,0,True,False
+2022-09-22,France,Austria,2,0,True,False
+2022-09-23,Japan,United States,2,0,True,False
+2022-09-23,Brazil,Ghana,3,0,True,False
+2022-09-23,Canada,Qatar,2,0,True,False
+2022-09-23,Iran,Uruguay,1,0,True,False
+2022-09-23,Saudi Arabia,Ecuador,0,0,False,False
+2022-09-24,Czech Republic,Portugal,0,4,False,True
+2022-09-24,Spain,Switzerland,1,2,False,True
+2022-09-25,New Zealand,Australia,0,2,False,True
+2022-09-25,Austria,Croatia,1,3,False,True
+2022-09-25,Netherlands,Belgium,1,0,True,False
+2022-09-26,England,Germany,3,3,False,False
+2022-09-27,Brazil,Tunisia,5,1,True,False
+2022-09-27,Canada,Uruguay,0,2,False,True
+2022-09-27,Ecuador,Japan,0,0,False,False
+2022-09-27,Iran,Senegal,1,1,False,False
+2022-09-27,Mexico,Colombia,2,3,False,True
+2022-09-27,Paraguay,Morocco,0,0,False,False
+2022-09-27,Saudi Arabia,United States,0,0,False,False
+2022-09-27,Portugal,Spain,0,1,False,True
+2022-09-27,Switzerland,Czech Republic,2,1,True,False
+2022-11-07,Qatar,Panama,2,1,True,False
+2022-11-09,Mexico,Iraq,4,0,True,False
+2022-11-10,Saudi Arabia,Panama,1,1,False,False
+2022-11-12,Iraq,Ecuador,0,0,False,False
+2022-11-16,Iran,Tunisia,0,2,False,True
+2022-11-16,Mexico,Sweden,1,2,False,True
+2022-11-16,Saudi Arabia,Croatia,0,1,False,True
+2022-11-16,Turkey,Scotland,2,1,True,False
+2022-11-17,Japan,Canada,1,2,False,True
+2022-11-17,Jordan,Spain,1,3,False,True
+2022-11-17,Switzerland,Ghana,0,2,False,True
+2022-11-18,Egypt,Belgium,2,1,True,False
+2022-11-19,Colombia,Paraguay,2,0,True,False
+2022-11-19,Sweden,Algeria,2,0,True,False
+2022-11-19,Turkey,Czech Republic,2,1,True,False
+2022-11-20,Qatar,Ecuador,0,2,False,True
+2022-11-21,Senegal,Netherlands,0,2,False,True
+2022-11-21,England,Iran,6,2,True,False
+2022-11-22,Argentina,Saudi Arabia,1,2,False,True
+2022-11-22,France,Australia,4,1,True,False
+2022-11-23,Germany,Japan,1,2,False,True
+2022-11-23,Morocco,Croatia,0,0,False,False
+2022-11-23,Belgium,Canada,1,0,True,False
+2022-11-24,Uruguay,South Korea,0,0,False,False
+2022-11-24,Portugal,Ghana,3,2,True,False
+2022-11-25,Qatar,Senegal,1,3,False,True
+2022-11-25,Netherlands,Ecuador,1,1,False,False
+2022-11-25,England,United States,0,0,False,False
+2022-11-26,Argentina,Mexico,2,0,True,False
+2022-11-26,Tunisia,Australia,0,1,False,True
+2022-11-27,Spain,Germany,1,1,False,False
+2022-11-27,Belgium,Morocco,0,2,False,True
+2022-11-27,Croatia,Canada,4,1,True,False
+2022-11-28,Brazil,Switzerland,1,0,True,False
+2022-11-28,South Korea,Ghana,2,3,False,True
+2022-11-28,Portugal,Uruguay,2,0,True,False
+2022-11-29,Ecuador,Senegal,1,2,False,True
+2022-11-29,Qatar,Netherlands,0,2,False,True
+2022-11-29,Iran,United States,0,1,False,True
+2022-11-30,Saudi Arabia,Mexico,1,2,False,True
+2022-11-30,Tunisia,France,1,0,True,False
+2022-12-01,Japan,Spain,2,1,True,False
+2022-12-01,Croatia,Belgium,0,0,False,False
+2022-12-01,Canada,Morocco,1,2,False,True
+2022-12-02,Ghana,Uruguay,0,2,False,True
+2022-12-02,South Korea,Portugal,2,1,True,False
+2022-12-03,Netherlands,United States,3,1,True,False
+2022-12-03,Argentina,Australia,2,1,True,False
+2022-12-04,England,Senegal,3,0,True,False
+2022-12-05,Japan,Croatia,1,1,False,False
+2022-12-05,Brazil,South Korea,4,1,True,False
+2022-12-06,Morocco,Spain,0,0,False,False
+2022-12-06,Portugal,Switzerland,6,1,True,False
+2022-12-09,Croatia,Brazil,1,1,False,False
+2022-12-09,Netherlands,Argentina,2,2,False,False
+2022-12-10,Morocco,Portugal,1,0,True,False
+2022-12-10,England,France,1,2,False,True
+2022-12-13,Argentina,Croatia,3,0,True,False
+2022-12-14,France,Morocco,2,0,True,False
+2022-12-17,Croatia,Morocco,2,1,True,False
+2022-12-18,Argentina,France,3,3,False,False
+2023-01-09,Iraq,Saudi Arabia,2,0,True,False
+2023-01-16,Iraq,Qatar,2,1,True,False
+2023-01-28,United States,Colombia,0,0,False,False
+2023-03-23,Argentina,Panama,2,0,True,False
+2023-03-24,Australia,Ecuador,3,1,True,False
+2023-03-24,Japan,Uruguay,1,1,False,False
+2023-03-24,South Korea,Colombia,2,2,False,False
+2023-03-24,France,Netherlands,4,0,True,False
+2023-03-24,Sweden,Belgium,0,3,False,True
+2023-03-25,Morocco,Brazil,2,1,True,False
+2023-03-25,Spain,Norway,3,0,True,False
+2023-03-25,Curaçao,Canada,0,2,False,True
+2023-03-28,Argentina,Curaçao,7,0,True,False
+2023-03-28,Australia,Ecuador,1,2,False,True
+2023-03-28,Germany,Belgium,2,3,False,True
+2023-03-28,Japan,Colombia,1,2,False,True
+2023-03-28,South Korea,Uruguay,1,2,False,True
+2023-03-28,Scotland,Spain,2,0,True,False
+2023-03-28,Turkey,Croatia,0,2,False,True
+2023-04-19,United States,Mexico,1,1,False,False
+2023-06-12,Morocco,Cape Verde,0,0,False,False
+2023-06-14,Netherlands,Croatia,2,4,False,True
+2023-06-15,Panama,Canada,0,2,False,True
+2023-06-15,United States,Mexico,3,0,True,False
+2023-06-15,Argentina,Australia,2,0,True,False
+2023-06-16,Colombia,Iraq,1,0,True,False
+2023-06-16,Sweden,New Zealand,4,1,True,False
+2023-06-17,Norway,Scotland,1,2,False,True
+2023-06-17,Belgium,Austria,1,1,False,False
+2023-06-17,Portugal,Bosnia and Herzegovina,3,0,True,False
+2023-06-17,South Africa,Morocco,2,1,True,False
+2023-06-18,Panama,Mexico,0,1,False,True
+2023-06-18,United States,Canada,2,0,True,False
+2023-06-18,Croatia,Spain,0,0,False,False
+2023-06-20,Algeria,Tunisia,1,1,False,False
+2023-06-20,Brazil,Senegal,2,4,False,True
+2023-06-20,Germany,Colombia,0,2,False,True
+2023-06-20,Austria,Sweden,2,0,True,False
+2023-06-20,Uzbekistan,Iran,0,1,False,True
+2023-06-25,Haiti,Qatar,2,1,True,False
+2023-06-29,Haiti,Mexico,1,3,False,True
+2023-07-02,Mexico,Qatar,0,1,False,True
+2023-07-08,Panama,Qatar,4,0,True,False
+2023-07-09,United States,Canada,2,2,False,False
+2023-07-12,United States,Panama,1,1,False,False
+2023-07-16,Mexico,Panama,1,0,True,False
+2023-09-07,Argentina,Ecuador,1,0,True,False
+2023-09-07,Norway,Jordan,6,0,True,False
+2023-09-09,Germany,Japan,1,4,False,True
+2023-09-09,Mexico,Australia,2,2,False,False
+2023-09-09,United States,Uzbekistan,3,0,True,False
+2023-09-12,Ecuador,Uruguay,2,1,True,False
+2023-09-12,Egypt,Tunisia,1,3,False,True
+2023-09-12,Germany,France,2,1,True,False
+2023-09-12,Japan,Turkey,4,2,True,False
+2023-09-12,South Korea,Saudi Arabia,1,0,True,False
+2023-09-12,Mexico,Uzbekistan,3,3,False,False
+2023-09-12,Scotland,England,1,3,False,True
+2023-09-12,Senegal,Algeria,0,1,False,True
+2023-09-12,South Africa,DR Congo,1,0,True,False
+2023-09-12,Sweden,Austria,1,3,False,True
+2023-10-12,Colombia,Uruguay,2,2,False,False
+2023-10-12,Argentina,Paraguay,1,0,True,False
+2023-10-12,Algeria,Cape Verde,5,1,True,False
+2023-10-12,Spain,Scotland,2,0,True,False
+2023-10-12,Croatia,Turkey,0,1,False,True
+2023-10-13,Curaçao,Panama,1,2,False,True
+2023-10-13,DR Congo,New Zealand,1,1,False,False
+2023-10-13,England,Australia,1,0,True,False
+2023-10-13,Iraq,Qatar,0,0,False,False
+2023-10-13,Japan,Canada,4,1,True,False
+2023-10-13,South Korea,Tunisia,4,0,True,False
+2023-10-13,Netherlands,France,1,2,False,True
+2023-10-13,Austria,Belgium,2,3,False,True
+2023-10-14,Ivory Coast,Morocco,1,1,False,False
+2023-10-14,Mexico,Ghana,2,0,True,False
+2023-10-14,United States,Germany,1,3,False,True
+2023-10-15,Norway,Spain,0,1,False,True
+2023-10-16,Algeria,Egypt,1,1,False,False
+2023-10-16,Belgium,Sweden,1,1,False,False
+2023-10-16,Bosnia and Herzegovina,Portugal,0,5,False,True
+2023-10-17,Ecuador,Colombia,0,0,False,False
+2023-10-17,Uruguay,Brazil,2,0,True,False
+2023-10-17,Australia,New Zealand,2,0,True,False
+2023-10-17,France,Scotland,4,1,True,False
+2023-10-17,Ivory Coast,South Africa,1,1,False,False
+2023-10-17,Mexico,Germany,2,2,False,False
+2023-10-17,United States,Ghana,4,0,True,False
+2023-11-16,Colombia,Brazil,2,1,True,False
+2023-11-16,Argentina,Uruguay,0,2,False,True
+2023-11-18,Germany,Turkey,2,3,False,True
+2023-11-19,Scotland,Norway,3,3,False,False
+2023-11-21,Paraguay,Colombia,0,1,False,True
+2023-11-21,Brazil,Argentina,0,1,False,True
+2023-11-21,Uzbekistan,Iran,2,2,False,False
+2023-11-21,Jordan,Saudi Arabia,0,2,False,True
+2023-11-21,Austria,Germany,2,0,True,False
+2023-12-16,Mexico,Colombia,2,3,False,True
+2024-01-05,Qatar,Jordan,1,2,False,True
+2024-01-06,Iraq,South Korea,0,1,False,True
+2024-01-09,Japan,Jordan,6,1,True,False
+2024-01-10,Tunisia,Cape Verde,2,0,True,False
+2024-01-14,Ghana,Cape Verde,1,2,False,True
+2024-01-18,Egypt,Ghana,2,2,False,False
+2024-01-19,Iraq,Japan,2,1,True,False
+2024-01-20,Jordan,South Korea,2,2,False,False
+2024-01-21,Morocco,DR Congo,1,1,False,False
+2024-01-22,Cape Verde,Egypt,2,2,False,False
+2024-01-23,Australia,Uzbekistan,1,1,False,False
+2024-01-24,South Africa,Tunisia,0,0,False,False
+2024-01-28,Egypt,DR Congo,1,1,False,False
+2024-01-29,Iraq,Jordan,2,3,False,True
+2024-01-29,Ivory Coast,Senegal,1,1,False,False
+2024-01-30,Saudi Arabia,South Korea,1,1,False,False
+2024-01-30,Morocco,South Africa,0,2,False,True
+2024-02-02,Australia,South Korea,1,2,False,True
+2024-02-03,Iran,Japan,2,1,True,False
+2024-02-03,Qatar,Uzbekistan,1,1,False,False
+2024-02-03,Cape Verde,South Africa,0,0,False,False
+2024-02-06,Jordan,South Korea,2,0,True,False
+2024-02-07,Qatar,Iran,3,2,True,False
+2024-02-07,Ivory Coast,DR Congo,1,0,True,False
+2024-02-10,Qatar,Jordan,3,1,True,False
+2024-02-10,South Africa,DR Congo,0,0,False,False
+2024-03-21,Panama,Mexico,0,3,False,True
+2024-03-21,Portugal,Sweden,5,2,True,False
+2024-03-22,Egypt,New Zealand,1,0,True,False
+2024-03-22,Netherlands,Scotland,4,0,True,False
+2024-03-22,Norway,Czech Republic,1,2,False,True
+2024-03-22,Spain,Colombia,0,1,False,True
+2024-03-23,Tunisia,Croatia,0,0,False,False
+2024-03-23,England,Brazil,0,1,False,True
+2024-03-23,France,Germany,0,2,False,True
+2024-03-24,United States,Mexico,2,0,True,False
+2024-03-26,Algeria,South Africa,3,3,False,False
+2024-03-26,Egypt,Croatia,2,4,False,True
+2024-03-26,New Zealand,Tunisia,0,0,False,False
+2024-03-26,Austria,Turkey,6,1,True,False
+2024-03-26,England,Belgium,2,2,False,False
+2024-03-26,Germany,Netherlands,2,1,True,False
+2024-03-26,Ivory Coast,Uruguay,2,1,True,False
+2024-03-26,Spain,Brazil,3,3,False,False
 2024-06-03,England,Bosnia and Herzegovina,3,0,True,False
 2024-06-05,Mexico,Uruguay,0,4,False,True
 2024-06-06,Netherlands,Canada,4,0,True,False
