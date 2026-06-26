@@ -1,4 +1,4 @@
-TITLE = "FIFA 2026 World Cup - Round 1 predictions - 2/3"
+TITLE = "FIFA 2026 World Cup - Round 1 predictions - 3/3"
 
 
 ALL_GAMES = [
@@ -52,103 +52,103 @@ ALL_GAMES = [
     # # 2026-06-17 00:00:00
     # ["Ghana", "Panama"],
     # #####################################################
-    # 2026-06-18 00:00:00
-    ["Czech Republic", "South Africa"],
-    # 2026-06-18 00:00:00
-    ["Mexico", "South Korea"],
-    # 2026-06-18 00:00:00
-    ["Switzerland", "Bosnia and Herzegovina"],
-    # 2026-06-18 00:00:00
-    ["Canada", "Qatar"],
-    # 2026-06-19 00:00:00
-    ["Scotland", "Morocco"],
-    # 2026-06-19 00:00:00
-    ["Brazil", "Haiti"],
-    # 2026-06-19 00:00:00
-    ["United States", "Australia"],
-    # 2026-06-19 00:00:00
-    ["Turkey", "Paraguay"],
-    # 2026-06-20 00:00:00
-    ["Germany", "Ivory Coast"],
-    # 2026-06-20 00:00:00
-    ["Ecuador", "Curaçao"],
-    # 2026-06-20 00:00:00
-    ["Netherlands", "Sweden"],
-    # 2026-06-20 00:00:00
-    ["Tunisia", "Japan"],
-    # 2026-06-21 00:00:00
-    ["Belgium", "Iran"],
-    # 2026-06-21 00:00:00
-    ["New Zealand", "Egypt"],
-    # 2026-06-21 00:00:00
-    ["Spain", "Saudi Arabia"],
-    # 2026-06-21 00:00:00
-    ["Uruguay", "Cape Verde"],
-    # 2026-06-22 00:00:00
-    ["France", "Iraq"],
-    # 2026-06-22 00:00:00
-    ["Norway", "Senegal"],
-    # 2026-06-22 00:00:00
-    ["Argentina", "Austria"],
-    # 2026-06-22 00:00:00
-    ["Jordan", "Algeria"],
-    # 2026-06-23 00:00:00
-    ["Portugal", "Uzbekistan"],
-    # 2026-06-23 00:00:00
-    ["Colombia", "DR Congo"],
-    # 2026-06-23 00:00:00
-    ["England", "Ghana"],
-    # 2026-06-23 00:00:00
-    ["Panama", "Croatia"],
-    # #############################################################
-    # # 2026-06-24 00:00:00
-    # ["Mexico", "Czech Republic"],
-    # # 2026-06-24 00:00:00
-    # ["South Africa", "South Korea"],
-    # # 2026-06-24 00:00:00
-    # ["Canada", "Switzerland"],
-    # # 2026-06-24 00:00:00
-    # ["Bosnia and Herzegovina", "Qatar"],
-    # # 2026-06-24 00:00:00
-    # ["Scotland", "Brazil"],
-    # # 2026-06-24 00:00:00
-    # ["Morocco", "Haiti"],
-    # # 2026-06-25 00:00:00
-    # ["United States", "Turkey"],
-    # # 2026-06-25 00:00:00
-    # ["Paraguay", "Australia"],
-    # # 2026-06-25 00:00:00
-    # ["Curaçao", "Ivory Coast"],
-    # # 2026-06-25 00:00:00
-    # ["Ecuador", "Germany"],
-    # # 2026-06-25 00:00:00
-    # ["Japan", "Sweden"],
-    # # 2026-06-25 00:00:00
-    # ["Tunisia", "Netherlands"],
-    # # 2026-06-26 00:00:00
-    # ["Egypt", "Iran"],
-    # # 2026-06-26 00:00:00
-    # ["New Zealand", "Belgium"],
-    # # 2026-06-26 00:00:00
-    # ["Cape Verde", "Saudi Arabia"],
-    # # 2026-06-26 00:00:00
-    # ["Uruguay", "Spain"],
-    # # 2026-06-26 00:00:00
-    # ["Norway", "France"],
-    # # 2026-06-26 00:00:00
-    # ["Senegal", "Iraq"],
-    # # 2026-06-27 00:00:00
-    # ["Algeria", "Austria"],
-    # # 2026-06-27 00:00:00
-    # ["Jordan", "Argentina"],
-    # # 2026-06-27 00:00:00
-    # ["Colombia", "Portugal"],
-    # # 2026-06-27 00:00:00
-    # ["DR Congo", "Uzbekistan"],
-    # # 2026-06-27 00:00:00
-    # ["Panama", "England"],
-    # # 2026-06-27 00:00:00
-    # ["Croatia", "Ghana"],
+    # # 2026-06-18 00:00:00
+    # ["Czech Republic", "South Africa"],
+    # # 2026-06-18 00:00:00
+    # ["Mexico", "South Korea"],
+    # # 2026-06-18 00:00:00
+    # ["Switzerland", "Bosnia and Herzegovina"],
+    # # 2026-06-18 00:00:00
+    # ["Canada", "Qatar"],
+    # # 2026-06-19 00:00:00
+    # ["Scotland", "Morocco"],
+    # # 2026-06-19 00:00:00
+    # ["Brazil", "Haiti"],
+    # # 2026-06-19 00:00:00
+    # ["United States", "Australia"],
+    # # 2026-06-19 00:00:00
+    # ["Turkey", "Paraguay"],
+    # # 2026-06-20 00:00:00
+    # ["Germany", "Ivory Coast"],
+    # # 2026-06-20 00:00:00
+    # ["Ecuador", "Curaçao"],
+    # # 2026-06-20 00:00:00
+    # ["Netherlands", "Sweden"],
+    # # 2026-06-20 00:00:00
+    # ["Tunisia", "Japan"],
+    # # 2026-06-21 00:00:00
+    # ["Belgium", "Iran"],
+    # # 2026-06-21 00:00:00
+    # ["New Zealand", "Egypt"],
+    # # 2026-06-21 00:00:00
+    # ["Spain", "Saudi Arabia"],
+    # # 2026-06-21 00:00:00
+    # ["Uruguay", "Cape Verde"],
+    # # 2026-06-22 00:00:00
+    # ["France", "Iraq"],
+    # # 2026-06-22 00:00:00
+    # ["Norway", "Senegal"],
+    # # 2026-06-22 00:00:00
+    # ["Argentina", "Austria"],
+    # # 2026-06-22 00:00:00
+    # ["Jordan", "Algeria"],
+    # # 2026-06-23 00:00:00
+    # ["Portugal", "Uzbekistan"],
+    # # 2026-06-23 00:00:00
+    # ["Colombia", "DR Congo"],
+    # # 2026-06-23 00:00:00
+    # ["England", "Ghana"],
+    # # 2026-06-23 00:00:00
+    # ["Panama", "Croatia"],
+    #############################################################
+    # 2026-06-24 00:00:00
+    ["Mexico", "Czech Republic"],
+    # 2026-06-24 00:00:00
+    ["South Africa", "South Korea"],
+    # 2026-06-24 00:00:00
+    ["Canada", "Switzerland"],
+    # 2026-06-24 00:00:00
+    ["Bosnia and Herzegovina", "Qatar"],
+    # 2026-06-24 00:00:00
+    ["Scotland", "Brazil"],
+    # 2026-06-24 00:00:00
+    ["Morocco", "Haiti"],
+    # 2026-06-25 00:00:00
+    ["United States", "Turkey"],
+    # 2026-06-25 00:00:00
+    ["Paraguay", "Australia"],
+    # 2026-06-25 00:00:00
+    ["Curaçao", "Ivory Coast"],
+    # 2026-06-25 00:00:00
+    ["Ecuador", "Germany"],
+    # 2026-06-25 00:00:00
+    ["Japan", "Sweden"],
+    # 2026-06-25 00:00:00
+    ["Tunisia", "Netherlands"],
+    # 2026-06-26 00:00:00
+    ["Egypt", "Iran"],
+    # 2026-06-26 00:00:00
+    ["New Zealand", "Belgium"],
+    # 2026-06-26 00:00:00
+    ["Cape Verde", "Saudi Arabia"],
+    # 2026-06-26 00:00:00
+    ["Uruguay", "Spain"],
+    # 2026-06-26 00:00:00
+    ["Norway", "France"],
+    # 2026-06-26 00:00:00
+    ["Senegal", "Iraq"],
+    # 2026-06-27 00:00:00
+    ["Algeria", "Austria"],
+    # 2026-06-27 00:00:00
+    ["Jordan", "Argentina"],
+    # 2026-06-27 00:00:00
+    ["Colombia", "Portugal"],
+    # 2026-06-27 00:00:00
+    ["DR Congo", "Uzbekistan"],
+    # 2026-06-27 00:00:00
+    ["Panama", "England"],
+    # 2026-06-27 00:00:00
+    ["Croatia", "Ghana"],
     # # QUARTERS
     # # SEMIS
     # # FINAL
