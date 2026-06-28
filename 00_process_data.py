@@ -1,61 +1,77 @@
 import pandas as pd
 
-from conf import BOUNDS,KICK_OFF
+from conf import BOUNDS, KICK_OFF
 
 start_date = BOUNDS[0]
 competition_date = KICK_OFF
 
-#start_date = '2024-06-03' # date of the first match to consider for past data
-#start_date = '1930-01-01' # date of the first match to consider for past data
-#competition_date = '2026-06-11' # date of the first match of the world cup 2026
+# start_date = '2024-06-03' # date of the first match to consider for past data
+# start_date = '1930-01-01' # date of the first match to consider for past data
+# competition_date = '2026-06-11' # date of the first match of the world cup 2026
 
 # process team list and competition matches from results.csv
-wc_df = pd.read_csv('input_data/results.csv')
-wc_df['date'] = pd.to_datetime(wc_df['date'], errors='coerce')
-wc_df = wc_df[['date', 'home_team', 'away_team', 'home_score', 'away_score']]
-wc_df = wc_df[(wc_df['date'] >= competition_date)]
-wc_df['home_score'] = pd.to_numeric(wc_df['home_score'], errors='coerce').astype('Int64')
-wc_df['away_score'] = pd.to_numeric(wc_df['away_score'], errors='coerce').astype('Int64')
-wc_df['win1'] = wc_df['home_score'] > wc_df['away_score']
-wc_df['win2'] = wc_df['away_score'] > wc_df['home_score']
+wc_df = pd.read_csv("input_data/results.csv")
+wc_df["date"] = pd.to_datetime(wc_df["date"], errors="coerce")
+wc_df = wc_df[["date", "home_team", "away_team", "home_score", "away_score"]]
+wc_df = wc_df[(wc_df["date"] >= competition_date)]
+wc_df["home_score"] = pd.to_numeric(wc_df["home_score"], errors="coerce").astype(
+    "Int64"
+)
+wc_df["away_score"] = pd.to_numeric(wc_df["away_score"], errors="coerce").astype(
+    "Int64"
+)
+wc_df["win1"] = wc_df["home_score"] > wc_df["away_score"]
+wc_df["win2"] = wc_df["away_score"] > wc_df["home_score"]
 
-wc_df = wc_df.rename(columns={
-    'date': 'd',
-    'home_team': 't1',
-    'away_team': 't2',
-    'home_score': 's1',
-    'away_score': 's2'
-})
+wc_df = wc_df.rename(
+    columns={
+        "date": "d",
+        "home_team": "t1",
+        "away_team": "t2",
+        "home_score": "s1",
+        "away_score": "s2",
+    }
+)
 
-teams = pd.concat([wc_df['t1'], wc_df['t2']]).dropna().unique()
+teams = pd.concat([wc_df["t1"], wc_df["t2"]]).dropna().unique()
 teams_list = sorted(teams.tolist())
 
 print(teams_list)
 print(len(teams_list))
 
-wc_df.to_csv('input_data/wc_games_results_during_fifa26.csv', index=False)
+wc_df.to_csv("input_data/wc_games_results_during_fifa26.csv", index=False)
 
 for line in wc_df.itertuples():
-    print("#"+str(line.d)+"\n['"+line.t1+"', '"+line.t2+"'], ")
+    print("#" + str(line.d) + "\n['" + line.t1 + "', '" + line.t2 + "'], ")
 
 # process past matches from results.csv
-results_df = pd.read_csv('input_data/results.csv')
-results_df['date'] = pd.to_datetime(results_df['date'], errors='coerce')
-results_df = results_df[['date', 'home_team', 'away_team', 'home_score', 'away_score']]
-results_df['home_score'] = pd.to_numeric(results_df['home_score'], errors='coerce').astype('Int64')
-results_df['away_score'] = pd.to_numeric(results_df['away_score'], errors='coerce').astype('Int64')
-results_df['win1'] = results_df['home_score'] > results_df['away_score']
-results_df['win2'] = results_df['away_score'] > results_df['home_score']
-results_df = results_df[(results_df['date'] >= start_date) & (results_df['date'] < competition_date)]
-results_df = results_df.rename(columns={
-    'date': 'd',
-    'home_team': 't1',
-    'away_team': 't2',
-    'home_score': 's1',
-    'away_score': 's2'
-})
+results_df = pd.read_csv("input_data/results.csv")
+results_df["date"] = pd.to_datetime(results_df["date"], errors="coerce")
+results_df = results_df[["date", "home_team", "away_team", "home_score", "away_score"]]
+results_df["home_score"] = pd.to_numeric(
+    results_df["home_score"], errors="coerce"
+).astype("Int64")
+results_df["away_score"] = pd.to_numeric(
+    results_df["away_score"], errors="coerce"
+).astype("Int64")
+results_df["win1"] = results_df["home_score"] > results_df["away_score"]
+results_df["win2"] = results_df["away_score"] > results_df["home_score"]
+results_df = results_df[
+    (results_df["date"] >= start_date) & (results_df["date"] < competition_date)
+]
+results_df = results_df.rename(
+    columns={
+        "date": "d",
+        "home_team": "t1",
+        "away_team": "t2",
+        "home_score": "s1",
+        "away_score": "s2",
+    }
+)
 
 # Keep only qualified teams
-results_df = results_df[results_df['t1'].isin(teams_list) & results_df['t2'].isin(teams_list)]
+results_df = results_df[
+    results_df["t1"].isin(teams_list) & results_df["t2"].isin(teams_list)
+]
 
-results_df.to_csv('input_data/wc_games_results_before_fifa26.csv', index=False)
+results_df.to_csv("input_data/wc_games_results_before_fifa26.csv", index=False)

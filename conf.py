@@ -1,4 +1,4 @@
-TITLE = "FIFA 2026 World Cup - Round 1 predictions - 3/3"
+TITLE = "FIFA 2026 World Cup - Round of sixteen"
 
 
 ALL_GAMES = [
@@ -101,85 +101,138 @@ ALL_GAMES = [
     # # 2026-06-23 00:00:00
     # ["Panama", "Croatia"],
     #############################################################
-    # 2026-06-24 00:00:00
-    ["Mexico", "Czech Republic"],
-    # 2026-06-24 00:00:00
-    ["South Africa", "South Korea"],
-    # 2026-06-24 00:00:00
-    ["Canada", "Switzerland"],
-    # 2026-06-24 00:00:00
-    ["Bosnia and Herzegovina", "Qatar"],
-    # 2026-06-24 00:00:00
-    ["Scotland", "Brazil"],
-    # 2026-06-24 00:00:00
-    ["Morocco", "Haiti"],
-    # 2026-06-25 00:00:00
-    ["United States", "Turkey"],
-    # 2026-06-25 00:00:00
-    ["Paraguay", "Australia"],
-    # 2026-06-25 00:00:00
-    ["Curaçao", "Ivory Coast"],
-    # 2026-06-25 00:00:00
-    ["Ecuador", "Germany"],
-    # 2026-06-25 00:00:00
-    ["Japan", "Sweden"],
-    # 2026-06-25 00:00:00
-    ["Tunisia", "Netherlands"],
-    # 2026-06-26 00:00:00
-    ["Egypt", "Iran"],
-    # 2026-06-26 00:00:00
-    ["New Zealand", "Belgium"],
-    # 2026-06-26 00:00:00
-    ["Cape Verde", "Saudi Arabia"],
-    # 2026-06-26 00:00:00
-    ["Uruguay", "Spain"],
-    # 2026-06-26 00:00:00
-    ["Norway", "France"],
-    # 2026-06-26 00:00:00
-    ["Senegal", "Iraq"],
-    # 2026-06-27 00:00:00
-    ["Algeria", "Austria"],
-    # 2026-06-27 00:00:00
-    ["Jordan", "Argentina"],
-    # 2026-06-27 00:00:00
-    ["Colombia", "Portugal"],
-    # 2026-06-27 00:00:00
-    ["DR Congo", "Uzbekistan"],
-    # 2026-06-27 00:00:00
-    ["Panama", "England"],
-    # 2026-06-27 00:00:00
-    ["Croatia", "Ghana"],
+    # # 2026-06-24 00:00:00
+    # ["Mexico", "Czech Republic"],
+    # # 2026-06-24 00:00:00
+    # ["South Africa", "South Korea"],
+    # # 2026-06-24 00:00:00
+    # ["Canada", "Switzerland"],
+    # # 2026-06-24 00:00:00
+    # ["Bosnia and Herzegovina", "Qatar"],
+    # # 2026-06-24 00:00:00
+    # ["Scotland", "Brazil"],
+    # # 2026-06-24 00:00:00
+    # ["Morocco", "Haiti"],
+    # # 2026-06-25 00:00:00
+    # ["United States", "Turkey"],
+    # # 2026-06-25 00:00:00
+    # ["Paraguay", "Australia"],
+    # # 2026-06-25 00:00:00
+    # ["Curaçao", "Ivory Coast"],
+    # # 2026-06-25 00:00:00
+    # ["Ecuador", "Germany"],
+    # # 2026-06-25 00:00:00
+    # ["Japan", "Sweden"],
+    # # 2026-06-25 00:00:00
+    # ["Tunisia", "Netherlands"],
+    # # 2026-06-26 00:00:00
+    # ["Egypt", "Iran"],
+    # # 2026-06-26 00:00:00
+    # ["New Zealand", "Belgium"],
+    # # 2026-06-26 00:00:00
+    # ["Cape Verde", "Saudi Arabia"],
+    # # 2026-06-26 00:00:00
+    # ["Uruguay", "Spain"],
+    # # 2026-06-26 00:00:00
+    # ["Norway", "France"],
+    # # 2026-06-26 00:00:00
+    # ["Senegal", "Iraq"],
+    # # 2026-06-27 00:00:00
+    # ["Algeria", "Austria"],
+    # # 2026-06-27 00:00:00
+    # ["Jordan", "Argentina"],
+    # # 2026-06-27 00:00:00
+    # ["Colombia", "Portugal"],
+    # # 2026-06-27 00:00:00
+    # ["DR Congo", "Uzbekistan"],
+    # # 2026-06-27 00:00:00
+    # ["Panama", "England"],
+    # # 2026-06-27 00:00:00
+    # ["Croatia", "Ghana"],
+    # ROUND OF SIXTEEN
+    # 2026-06-28
+    ["South Africa", "Canada"],
+    # 2026-06-29
+    ["Brazil", "Japan"],
+    # 2026-06-29
+    ["Germany", "Paraguay"],
+    # 2026-06-30
+    ["Netherlands", "Morocco"],
+    # 2026-06-30
+    ["Ivory Coast", "Norway"],
+    # 2026-06-30
+    ["France", "Sweden"],
+    # 2026-07-01
+    ["Mexico", "Ecuador"],
+    # 2026-07-01
+    ["England", "DR Congo"],
+    # 2026-07-01
+    ["Belgium", "Senegal"],
+    # 2026-07-02
+    ["United States", "Bosnia and Herzegovina"],
+    # 2026-07-02
+    ["Spain", "Austria"],
+    # 2026-07-03
+    ["Portugal", "Croatia"],
+    # 2026-07-03
+    ["Switzerland", "Algeria"],
+    # 2026-07-03
+    ["Australia", "Egypt"],
+    # 2026-07-04
+    ["Argentina", "Cape Verde"],
+    # 2026-07-04
+    ["Colombia", "Ghana"],
+    # # EIGHTS
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
     # # QUARTERS
-    # # SEMIS
-    # # FINAL
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # # SEMIS
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # # FINAL
+    # # 2026-MM-DD
+    # ["T1","T2"],
+    # # 2026-MM-DD
+    # ["T1","T2"],
 ]
 
 #######
 
 KICK_OFF = "2026-06-11"  # WC kick-off date (first match of the world cup 2026)
-#KICK_OFF = "2022-12-19"  # WC kick-off date (first match of the world cup 2026)
 
 BOUNDS = [
-    #"1930-07-13",  # "L'Histoire Culturelle" - Au-delà de 30 ans : Mythes, poids du maillot et pression psychologique.
-    #"1996-06-01",  # "L'Ère Moderne du Football Globalisé" - 1996-2014 : Homogénéisation tactique, mondialisation et explosion de la data.
+    # "1930-07-13",  # "L'Histoire Culturelle" - Au-delà de 30 ans : Mythes, poids du maillot et pression psychologique.
+    # "1996-06-01",  # "L'Ère Moderne du Football Globalisé" - 1996-2014 : Homogénéisation tactique, mondialisation et explosion de la data.
     "2014-06-12",  # "L'Ère d'une Génération" - 2014-2022 : Cycles des cadres actuels et gestion du plafond de verre.
     "2022-12-19",  # "Cycle Immédiat - Phase Fondatrice" - Post-Qatar 2022 : Installation de la nouvelle philosophie et des principes de jeu.
     "2024-06-11",  # "Cycle Immédiat - Qualification & Maturation" - 2024-2025 : Tournois continentaux (Euro/Copa) et cristallisation du onze type.
     "2025-12-11",  # "Cycle Immédiat - Phase Flash" - 6 derniers mois : Forme récente en club, fraîcheur physique et dynamique à l'instant T.
     "2026-06-10",  # Début World Cup 2026
     "2026-07-20",  # Fin World cup 2026 (du 11 juin au 19 juillet 2026)
-    # last date should be after the last match of the world cup, so that all matches are included in the last interval
-]
-
-BOUNDS___ = [
-    # "2024-06-03",  # Amicaux pré-tournois (fenêtre FIFA juin 2024, avant Euro et Copa América)
-    # "2024-06-16",  # Euro 2024 + Copa América 2024 (phases finales, compétitions officielles)
-    "2024-09-05",  # Qualifications WC26, automne 2024 (fenêtres FIFA sept./oct./nov. 2024)
-    "2024-12-28",  # Qualifications WC26, printemps 2025 + Gold Cup CONCACAF (mars–juil. 2025)
-    "2025-07-02",  # Qualifications WC26, automne 2025, matchs décisifs (fenêtres sept./oct./nov. 2025)
-    "2025-12-08",  # Coupes régionales hivernales (Gulf Cup + AFCON 2025, déc. 2025–jan. 2026)
-    "2026-06-10",  # Playoffs finaux + amicaux de préparation au Mondial (mars–mai 2026)
-    "2026-07-20",  # World cup 2026 (du 11 juin au 19 juillet 2026)
     # last date should be after the last match of the world cup, so that all matches are included in the last interval
 ]
 

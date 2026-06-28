@@ -1,6 +1,7 @@
 import choix
 import numpy as np
 
+
 def pronostics(match, matrix):
     t1 = match[0]
     t2 = match[1]
