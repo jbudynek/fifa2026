@@ -1,4 +1,4 @@
-TITLE = "FIFA 2026 World Cup - Round of sixteen"
+TITLE = "FIFA 2026 World Cup - Round of 32"
 
 
 ALL_GAMES = [
@@ -149,7 +149,7 @@ ALL_GAMES = [
     # ["Panama", "England"],
     # # 2026-06-27 00:00:00
     # ["Croatia", "Ghana"],
-    # ROUND OF SIXTEEN
+    # ROUND OF 32
     # 2026-06-28
     ["South Africa", "Canada"],
     # 2026-06-29
@@ -182,7 +182,7 @@ ALL_GAMES = [
     ["Argentina", "Cape Verde"],
     # 2026-07-04
     ["Colombia", "Ghana"],
-    # # EIGHTS
+    # # ROUND OF 16
     # # 2026-MM-DD
     # ["T1","T2"],
     # # 2026-MM-DD
