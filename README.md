@@ -32,6 +32,11 @@ Then:
 - Run `03_pronostics_from_bt.py`
 - See in the terminal for easy to read pronostics, and see in `boxplots/` for a nice graph.
 
+
+## Round of sixteen
+
+![RoundOfSixteen](boxplots/_04_whisk-2014-06-12-2026-07-20.png)
+
 ## Round 1 pronostics
 
 ![Pool3](boxplots/_03_whisk-2014-06-12-2026-07-20.png)
