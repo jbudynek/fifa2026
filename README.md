@@ -37,7 +37,7 @@ Then:
 
 ![RoundOfSixteen](boxplots/_04_whisk-2014-06-12-2026-07-20.png)
 
-## Round 1 results
+## Pool games results
 
 | Game | My Prono | Real winner | Score | Y/N |
 | :--- | :--- | :--- | :--- | :--- |
@@ -123,7 +123,7 @@ Then:
 *   **Round 2 :** 18 right pronostics out of 24
 *   **Round 3 :** 13 right pronostics out of 24
 
-## Round 1 pronostics
+## Pool games pronostics
 
 ![Pool3](boxplots/_03_whisk-2014-06-12-2026-07-20.png)
 
