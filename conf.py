@@ -1,4 +1,4 @@
-TITLE = "FIFA 2026 World Cup - Round of 32"
+TITLE = "FIFA 2026 World Cup - Round of 16"
 
 
 ALL_GAMES = [
@@ -150,73 +150,73 @@ ALL_GAMES = [
     # # 2026-06-27 00:00:00
     # ["Croatia", "Ghana"],
     # ROUND OF 32
-    # 2026-06-28
-    ["South Africa", "Canada"],
-    # 2026-06-29
-    ["Brazil", "Japan"],
-    # 2026-06-29
-    ["Germany", "Paraguay"],
-    # 2026-06-30
-    ["Netherlands", "Morocco"],
-    # 2026-06-30
-    ["Ivory Coast", "Norway"],
-    # 2026-06-30
-    ["France", "Sweden"],
-    # 2026-07-01
-    ["Mexico", "Ecuador"],
-    # 2026-07-01
-    ["England", "DR Congo"],
-    # 2026-07-01
-    ["Belgium", "Senegal"],
-    # 2026-07-02
-    ["United States", "Bosnia and Herzegovina"],
-    # 2026-07-02
-    ["Spain", "Austria"],
-    # 2026-07-03
-    ["Portugal", "Croatia"],
-    # 2026-07-03
-    ["Switzerland", "Algeria"],
-    # 2026-07-03
-    ["Australia", "Egypt"],
+    # # 2026-06-28
+    # ["South Africa", "Canada"],
+    # # 2026-06-29
+    # ["Brazil", "Japan"],
+    # # 2026-06-29
+    # ["Germany", "Paraguay"],
+    # # 2026-06-30
+    # ["Netherlands", "Morocco"],
+    # # 2026-06-30
+    # ["Ivory Coast", "Norway"],
+    # # 2026-06-30
+    # ["France", "Sweden"],
+    # # 2026-07-01
+    # ["Mexico", "Ecuador"],
+    # # 2026-07-01
+    # ["England", "DR Congo"],
+    # # 2026-07-01
+    # ["Belgium", "Senegal"],
+    # # 2026-07-02
+    # ["United States", "Bosnia and Herzegovina"],
+    # # 2026-07-02
+    # ["Spain", "Austria"],
+    # # 2026-07-03
+    # ["Portugal", "Croatia"],
+    # # 2026-07-03
+    # ["Switzerland", "Algeria"],
+    # # 2026-07-03
+    # ["Australia", "Egypt"],
+    # # 2026-07-04
+    # ["Argentina", "Cape Verde"],
+    # # 2026-07-04
+    # ["Colombia", "Ghana"],
+    # ROUND OF 16
     # 2026-07-04
-    ["Argentina", "Cape Verde"],
+    ["Canada","Morocco"],
     # 2026-07-04
-    ["Colombia", "Ghana"],
-    # # ROUND OF 16
-    # # 2026-MM-DD
-    # ["T1","T2"],
-    # # 2026-MM-DD
-    # ["T1","T2"],
-    # # 2026-MM-DD
-    # ["T1","T2"],
-    # # 2026-MM-DD
-    # ["T1","T2"],
-    # # 2026-MM-DD
-    # ["T1","T2"],
-    # # 2026-MM-DD
-    # ["T1","T2"],
-    # # 2026-MM-DD
-    # ["T1","T2"],
-    # # 2026-MM-DD
-    # ["T1","T2"],
+    ["Paraguay","France"],
+    # 2026-07-05
+    ["Brazil","Norway"],
+    # 2026-07-06
+    ["Mexico","England"],
+    # 2026-07-06
+    ["Portugal","Spain"],
+    # 2026-07-07
+    ["United States","Belgium"],
+    # 2026-07-07
+    #["T1","T2"],
+    # 2026-07-07
+    #["Switzerland","T2"],
     # # QUARTERS
-    # # 2026-MM-DD
+    # # 2026-07-09
     # ["T1","T2"],
-    # # 2026-MM-DD
+    # # 2026-07-10
     # ["T1","T2"],
-    # # 2026-MM-DD
+    # # 2026-07-11
     # ["T1","T2"],
-    # # 2026-MM-DD
+    # # 2026-07-12
     # ["T1","T2"],
     # # # SEMIS
-    # # 2026-MM-DD
+    # # 2026-07-14
     # ["T1","T2"],
-    # # 2026-MM-DD
+    # # 2026-07-15
     # ["T1","T2"],
     # # # FINAL
-    # # 2026-MM-DD
+    # # 2026-07-19
     # ["T1","T2"],
-    # # 2026-MM-DD
+    # # 2026-07-18
     # ["T1","T2"],
 ]
 
