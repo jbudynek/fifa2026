@@ -196,9 +196,9 @@ ALL_GAMES = [
     # 2026-07-07
     ["United States","Belgium"],
     # 2026-07-07
-    #["T1","T2"],
+    ["Argentina","Egypt"],
     # 2026-07-07
-    #["Switzerland","T2"],
+    ["Switzerland","Colombia"],
     # # QUARTERS
     # # 2026-07-09
     # ["T1","T2"],
