@@ -33,9 +33,13 @@ Then:
 - See in the terminal for easy to read pronostics, and see in `boxplots/` for a nice graph.
 
 
-## Round of sixteen
+## Round of 16
 
-![RoundOfSixteen](boxplots/_04_whisk-2014-06-12-2026-07-20.png)
+![RoundOf16](boxplots/_05_whisk-2014-06-12-2026-07-20.png)
+
+## Round of 32
+
+![RoundOf32](boxplots/_04_whisk-2014-06-12-2026-07-20.png)
 
 ## Pool games results
 
