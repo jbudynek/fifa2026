@@ -1,4 +1,4 @@
-TITLE = "FIFA 2026 World Cup - Round of 16"
+TITLE = "FIFA 2026 World Cup - Quarters"
 
 
 ALL_GAMES = [
@@ -182,32 +182,32 @@ ALL_GAMES = [
     # ["Argentina", "Cape Verde"],
     # # 2026-07-04
     # ["Colombia", "Ghana"],
-    # ROUND OF 16
-    # 2026-07-04
-    ["Canada","Morocco"],
-    # 2026-07-04
-    ["Paraguay","France"],
-    # 2026-07-05
-    ["Brazil","Norway"],
-    # 2026-07-06
-    ["Mexico","England"],
-    # 2026-07-06
-    ["Portugal","Spain"],
-    # 2026-07-07
-    ["United States","Belgium"],
-    # 2026-07-07
-    ["Argentina","Egypt"],
-    # 2026-07-07
-    ["Switzerland","Colombia"],
-    # # QUARTERS
-    # # 2026-07-09
-    # ["T1","T2"],
-    # # 2026-07-10
-    # ["T1","T2"],
-    # # 2026-07-11
-    # ["T1","T2"],
-    # # 2026-07-12
-    # ["T1","T2"],
+    # # ROUND OF 16
+    # # 2026-07-04
+    # ["Canada","Morocco"],
+    # # 2026-07-04
+    # ["Paraguay","France"],
+    # # 2026-07-05
+    # ["Brazil","Norway"],
+    # # 2026-07-06
+    # ["Mexico","England"],
+    # # 2026-07-06
+    # ["Portugal","Spain"],
+    # # 2026-07-07
+    # ["United States","Belgium"],
+    # # 2026-07-07
+    # ["Argentina","Egypt"],
+    # # 2026-07-07
+    # ["Switzerland","Colombia"],
+    # QUARTERS
+    # 2026-07-09
+    ["France","Morocco"],
+    # 2026-07-10
+    ["Spain","Belgium"],
+    # 2026-07-11
+    ["Norway","England"],
+    # 2026-07-12
+    ["Argentina","Switzerland"],
     # # # SEMIS
     # # 2026-07-14
     # ["T1","T2"],
