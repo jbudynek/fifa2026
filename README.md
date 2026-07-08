@@ -33,9 +33,58 @@ Then:
 - See in the terminal for easy to read pronostics, and see in `boxplots/` for a nice graph.
 
 
+## Quarters
+
+![Quarters](boxplots/_06_whisk-2014-06-12-2026-07-20.png)
+
+## Round of 16 results
+
+| Match | My Prono | Real Winner | Result |
+| :--- | :--- | :--- | :---: |
+| **Canada vs Maroc** | Maroc | **Maroc** (0-3) | ✅ |
+| **Paraguay vs France** | France | **France** (0-1) | ✅ |
+| **Brésil vs Norvège** | Brésil | **Norvège** (1-2) | ❌ |
+| **Mexique vs Angleterre** | Mexique | **Angleterre** (2-3) | ❌ |
+| **Portugal vs Espagne** | Espagne | **Espagne** (0-1) | ✅ |
+| **États-Unis vs Belgique** | Belgique | **Belgique** (1-4) | ✅ |
+| **Argentine vs Égypte** | Argentine | **Argentine** (3-2) | ✅ |
+| **Suisse vs Colombie** | Suisse | **Suisse** (0-0) | ✅ |
+
+**TOTAL : 6 right pronostics out of 8 so 75%**
+
+**GRAND TOTAL : 60 right pronostics out of 96 so ~63%**
+
+
 ## Round of 16
 
 ![RoundOf16](boxplots/_05_whisk-2014-06-12-2026-07-20.png)
+
+## Round of 32 results
+
+| Match | My Prono | Real Winner | Result |
+| :--- | :--- | :--- | :---: |
+| **Afrique du Sud vs Canada** | Canada | **Canada** (0-1) | ✅ |
+| **Brésil vs Japon** | Brésil | **Brésil** (2-1) | ✅ |
+| **Allemagne vs Paraguay** | Allemagne | **Paraguay** (1-1) | ❌ |
+| **Pays-Bas vs Maroc** | Maroc | **Maroc** (1-1) | ✅ |
+| **Côte d’Ivoire vs Norvège** | Côte d’Ivoire | **Norvège** (1-2) | ❌ |
+| **France vs Suède** | France | **France** (3-0) | ✅ |
+| **Mexique vs Équateur** | Mexique | **Mexique** (2-0) | ✅ |
+| **Angleterre vs RD Congo** | Angleterre | **Angleterre** (2-1) | ✅ |
+| **Belgique vs Sénégal** | Belgique | **Belgique** (3-2) | ✅ |
+| **États-Unis vs Bosnie** | États-Unis | **États-Unis** (2-0) | ✅ |
+| **Espagne vs Autriche** | Espagne | **Espagne** (3-0) | ✅ |
+| **Portugal vs Croatie** | Portugal | **Portugal** (2-1) | ✅ |
+| **Suisse vs Algérie** | Suisse | **Suisse** (2-0) | ✅ |
+| **Australie vs Égypte** | Australie | **Egypte** (1-1) | ❌ |
+| **Argentine vs Cap-Vert** | Argentine | **Argentine** (3-2) | ✅ |
+| **Colombie vs Ghana** | Colombie | **Colombie** (1-0) | ✅ |
+
+
+**TOTAL : 13 right pronostics out of 16 so ~81%**
+
+**GRAND TOTAL : 54 right pronostics out of 88 so ~61%**
+
 
 ## Round of 32
 
