@@ -32,9 +32,13 @@ Then:
 - Run `03_pronostics_from_bt.py`
 - See in the terminal for easy to read pronostics, and see in `boxplots/` for a nice graph.
 
+## Finals
+
+![Finals](boxplots/_08_whisk-2014-06-12-2026-07-20.png)
+
 ## Semis
 
-![Semis](boxplots/_07_whisk-2014-06-12-2026-07-20)
+![Semis](boxplots/_07_whisk-2014-06-12-2026-07-20.png)
 
 ## Quarters
 

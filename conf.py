@@ -1,4 +1,4 @@
-TITLE = "FIFA 2026 World Cup - Semis"
+TITLE = "FIFA 2026 World Cup - Finals"
 
 
 ALL_GAMES = [
@@ -209,15 +209,15 @@ ALL_GAMES = [
     # # 2026-07-12
     # ["Argentina","Switzerland"],
     # # SEMIS
-    # 2026-07-14
-    ["France","Spain"],
-    # 2026-07-15
-    ["England","Argentina"],
-    # # # FINAL
-    # # 2026-07-19
-    # ["T1","T2"],
-    # # 2026-07-18
-    # ["T1","T2"],
+    # # 2026-07-14
+    # ["France","Spain"],
+    # # 2026-07-15
+    # ["England","Argentina"],
+    # # FINAL
+    # 2026-07-19
+    ["Spain","Argentina"],
+    # 2026-07-18
+    ["France","England"],
 ]
 
 #######
