@@ -32,6 +32,27 @@ Then:
 - Run `03_pronostics_from_bt.py`
 - See in the terminal for easy to read pronostics, and see in `boxplots/` for a nice graph.
 
+## Conclusion
+
+Not bad, in particular with predicting Spain as the World Champion! See you for Euro 2028.
+
+## Results for quarters, semis and finals
+
+| Stage | Match | My Prediction | Actual Winner | Result |
+| :--- | :--- | :--- | :--- | :---: |
+| **Quarter-finals** | France vs Morocco | France | **France** (2-0) | ✅ |
+| | Spain vs Belgium | Spain | **Spain** (2-1) | ✅ |
+| | Norway vs England | England | **England** (1-2) | ✅ |
+| | Argentina vs Switzerland | Argentina | **Argentina** (3-1) | ✅ |
+| **Semi-finals** | France vs Spain | Spain | **Spain** (0-2) | ✅ |
+| | England vs Argentina | Argentina | **Argentina** (1-2) | ✅ |
+| **3rd Place Match**| France vs England | France | **England** (4-6) | ❌ |
+| **Final** | Spain vs Argentina | Spain | **Spain** (1-0) | ✅ |
+
+**TOTAL : 7 right pronostics out of 8 so ~88%**
+
+**GRAND TOTAL : 67 right pronostics out of 104 so ~64%**
+
 ## Finals
 
 ![Finals](boxplots/_08_whisk-2014-06-12-2026-07-20.png)
